@@ -1,0 +1,762 @@
+<!doctype html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>M03.UF1.NF1.A1.A2</title>
+		<link rel="stylesheet" href="css/reveal.css">
+		<link rel="stylesheet" href="css/theme/black.css" id="theme">
+		<link rel="stylesheet" href="css/theme/adobe.css" id="theme">
+
+		<!-- Theme used for syntax highlighting of code -->
+		<link rel="stylesheet" href="lib/css/idea.css">
+
+		<!-- Printing and PDF exports -->
+		<script>
+			var link = document.createElement( 'link' );
+			link.rel = 'stylesheet';
+			link.type = 'text/css';
+			link.href = window.location.search.match( /print-pdf/gi ) ? 'css/print/pdf.css' : 'css/print/paper.css';
+			document.getElementsByTagName( 'head' )[0].appendChild( link );
+		</script>
+	</head>
+	<body>
+		<div class="reveal default center ready" data-transition-speed="default" data-background-transition="default">
+			<div class="slides">
+				<section data-markdown>
+					<textarea data-template>
+<!-- .slide: class="intro" -->
+# M03. UF1. Programació estructurada
+### CFGS ASIX1
+<small>Pedro Durán / <pduran5@xtec.cat></small>
+
+---
+
+# NF1. Estructura d'un programa informàtic
+
+---
+
+## Llocs per aprendre a programar
+
+*   [Tutoriales Programación Ya](http://www.tutorialesprogramacionya.com/)
+*   [YouTube Píldoras Informáticas](https://www.youtube.com/user/pildorasinformaticas)
+*   [CodinGame](https://www.codingame.com/)
+*   [Codecademy](https://www.codecademy.com/)
+*   [Khan Academy](https://es.khanacademy.org/computing/computer-programming)
+
+---
+
+## Doodle Màquina Turing
+<a href="https://www.google.com/doodles/alan-turings-100th-birthday">
+    <img src="/img/turing.png" />
+    http://www.google.com/doodles/alan-turings-100th-birthday
+</a>
+
+---
+
+## Ordinador
+
+*   Màquina electrònica, analògica o digital, dotada d'una memòria de gran capacitat i de mètodes de tractament de la informació, capaç de resoldre problemes matemàtics i lògics mitjançant la utilització automàtica de programes informàtics.
+
+*   Els components bàsics d'un ordinador són:
+    *   processador
+    *   memòria
+    *   perifèrics
+
+---
+
+## Informàtica
+
+*   Ciència orientada al procés d'informació mitjançant l'ús de computadors.
+
+## Processador
+
+*   El component principal d'una computadora és el processador el qual, en principi, només és capaç de realitzar físicament les següents operacions bàsiques:
+
+    *   operacions aritmètiques senzilles (+, -, *, /)
+    *   operacions lògiques senzilles (=, >, <). 
+
+*   Combinant adequadament aquestes operacions mitjançant un programa es poden arribar a realitzar tasques molt complexes.
+
+---
+
+## Hardware
+
+*   Es tracta de tots els components físics que formen part d'un ordinador: processador, RAM, impressora, teclat, ratolí,...
+
+<br/>
+
+## Software
+
+*   Es tracta de la part conceptual de l'ordinador. És a dir les dades i aplicacions que maneja i que permeten un grau d'abstracció major. Qualsevol cosa que es pugui emmagatzemar en una unitat d'emmagatzematge és programari (la pròpia unitat seria maquinari).
+
+---
+
+## Sistema operatiu
+
+*   Es tracta del programari (programa) encarregat de gestionar l'ordinador. És l'aplicació que oculta la física real de l'ordinador per mostrar-nos un interfície que permeti a l'usuari un millor i més fàcil maneig de la computadora.
+
+<ul class="list list--horizontal">
+    <li>
+    <img width="500" height="100" src="https://cdn.worldvectorlogo.com/logos/windows-10.svg">
+    </li>
+    <li>
+    <img width="500" height="100" src="https://assets.ubuntu.com/v1/c037fd75-ubuntu-logo.png">
+    </li>
+</ul>
+
+---
+
+## Funcions del sistema operatiu
+
+*   Permetre a l'usuari comunicar-se amb l'ordinador. A través de comandes o a través d'una interfície gràfica.
+
+*   Coordinar i manipular el maquinari de la computadora: memòria, impressores, unitats de disc, el teclat,...
+
+*   Proporcionar eines per organitzar les dades de manera lògica (carpetes, arxius,...)
+
+*   Proporcionar eines per organitzar les aplicacions instal·lades.
+ 
+--
+
+## Funcions del sistema operatiu
+
+*   Gestionar l'accés a xarxes
+
+*   Gestionar els errors de maquinari i la pèrdua de dades.
+
+*   Servir de base per a la creació d'aplicacions, proporcionant funcions que facilitin la tasca als programadors.
+
+*   Administrar la configuració dels usuaris.
+
+*   Proporcionar eines per controlar la seguretat del sistema.
+
+---
+
+## Programa
+
+*   Seqüència d’ordres, comprensibles per l’ordinador, que permeten la realització d’una tasca determinada
+
+<br/>
+
+## Programació
+
+*   Seqüència de passos que ha d’efectuar el programador per obtenir un programa
+
+<br/>
+
+## Algorisme
+
+*   Mètode de resolució d’un problema en un nombre finit de passos
+
+---
+
+## Blockly
+
+<img height="400" src="/img/Blockly.png" />
+<br/>
+<https://blockly-games.appspot.com>
+
+---
+
+## Instrucció
+
+*   Combinació de paraules, dades i símbols que, obeint la sintaxi pròpia del llenguatge, són utilitzats per l’ordinador per dur a terme una acció determinada.
+
+<br/>
+
+## Dada
+
+*   Tota informació que fa servir l’ordinador.
+
+---
+
+## Tipus de programes
+
+*   **Programes de gestió.** Es caracteritzen pel maneig d'una gran quantitat de dades amb pocs càlculs. *Word, Access*
+
+*   **Programes tècnic-científics.** Realitzen una gran quantitat de càlculs amb poques dades (resolen problemes matemàtics, físics, etc.). *Maple*
+
+*   **Programes de disseny (CAD).** Es caracteritzen per la utilització de tècniques gràfiques per resoldre problemes de disseny gràfic. *AutoCAD*
+
+--
+
+## Tipus de programes
+
+*   **Programes de simulació.** Intenten reflectir una situació real per facilitar el seu estudi i analitzar els problemes que es poden plantejar. *Packet Tracer*
+
+*   **Programes educatius.** Utilitzen els avantatges de la computadora per a la docència, convertint-la en un professor per a autodidactes. *GeoGebra, Clic.*
+
+---
+
+## Llenguatges de programació
+
+*   Un llenguatge ve donat per una gramàtica o conjunt de regles que s'apliquen a un alfabet (conjunt de signes que representen els elements utilitzats en un llenguatge).
+
+*   Un llenguatge de programació és una **notació** (sistema de signes) **per escriure programes**.
+
+*   Els llenguatges de programació es classifiquen en 2 grans grups:
+
+    *   Llenguatges de baix nivell
+    *   Llenguatges d'alt nivell
+
+--
+
+## Llenguatges de programació
+
+*   **Llenguatges de baix nivell.** Són aquells que per les seves característiques es troben més propers a l'arquitectura de la màquina, englobant-se en aquest grup el **llenguatge màquina** i el **llenguatge assemblador**.
+
+*   **Llenguatges d'alt nivell.** Són aquells que per les seves característiques es troben més propers a l'usuari o programador i es consideren com a tals la resta dels llenguatges de programació com per exemple **BASIC, COBOL, Pascal, Modula2, C, Fortran, Java,** etc.
+
+--
+
+## A quick look at programming languages
+
+<img height="400" src="/img/aquicklook.png" />
+<br/>
+<https://visual.ly/community/infographic/computers/quick-look-programming-languages>
+
+--
+
+## TIOBE Index
+
+<img height="400" src="/img/tiobe.png">
+<br/>
+<https://www.tiobe.com/tiobe-index/>
+
+---
+
+## Intèrprets i compiladors
+
+*   A l'hora de convertir un programa en codi màquina, es poden utilitzar 2 tipus de programari:
+    *   **intèrprets**
+    *   **compiladors**
+
+---
+
+## Intèrprets
+
+*   **Es converteix cada línia a codi màquina i s'executa aquest codi màquina abans de convertir la següent línia.**
+
+*   D'aquesta manera si les 2 primeres línies són correctes i la 3a té una fallada de sintaxi, veuríem el resultat de les 2 primeres línies i en arribar a la 3a se'ns **notificaria la fallada i finalitzaria l'execució.**
+
+--
+
+## Intèrprets
+
+*   L'intèrpret fa una simulació de manera que sembla que la màquina entén directament les instruccions del llenguatge, semblant que executa cada instrucció (com si fos codi màquina directe).
+
+*   **Avui dia la majoria dels llenguatges integrats en pàgines web són interpretats**, la raó és que com la descàrrega d'Internet és lenta, és millor que les instruccions es vagin traduint segons van arribant en lloc de carregar totes en l'ordinador. Exemples: *BASIC, Javascript, PHP.*
+
+--
+
+## Intèrprets
+
+*   Un programa que es converteix a codi màquina mitjançant un intèrpret segueix aquests passos:
+
+    1. Llegeix la 1a instrucció
+    2. Comprova si és correcta
+    3. Converteix aquesta instrucció al codi màquina equivalent
+    4. Llegeix la següent instrucció
+    5. Torna al pas 2 fins a acabar amb totes les instruccions
+
+--
+
+<!-- .slide: class="avantatge" -->
+
+## Intèrprets - Avantatges 
+
+*   Es triga menys a crear el primer codi màquina. **El programa s'executa abans**.
+
+*   **No fa falta carregar totes les línies per començar a veure resultats** (el que fa que sigui una tècnica idònia per a programes que es carreguen des d'Internet)
+
+--
+
+<!-- .slide: class="desavantatge" -->
+## Intèrprets - Desavantatges
+ 
+*   El codi màquina produït és pitjor ja que **no s'optimitza en valorar una sola línia cada vegada**. El codi optimitzat permet estudiar diverses línies alhora per produir el millor codi màquina possible, per això no és possible mitjançant l'ús d'intèrprets.
+
+*   **Tots els errors són errors en temps d'execució**, no es poden detectar abans de llançar el programa. Això fa que la depuració dels errors sigui més complexa.
+
+--
+
+<!-- .slide: class="desavantatge" -->
+## Intèrprets - Desavantatges
+
+*   El codi màquina resultant **ocupa més espai**.
+
+*   Hi ha **errors difícilment detectables**, ja que perquè els errors es produeixin, les línies d'errors cal executar-les. Si la línia és condicional fins que no provem totes les possibilitats del programa, no sabrem tots els errors de sintaxis comesos.
+
+---
+
+## Compiladors
+
+*   Programari que tradueix les instruccions d'un llenguatge de programació d'alt nivell a codi màquina.
+
+*   **Diferència amb els intèrprets:** s'analitzen totes les línies abans de començar la traducció.
+
+*Durant molts anys, els llenguatges potents han estat compilats. L'ús massiu d'Internet ha propiciat que aquesta tècnica de vegades no sigui adequada i hi hagi llenguatges moderns interpretats o semi interpretats, meitat es compila cap a un codi intermedi i després s'interpreta línia a línia (com per exemple Java i C#).*
+
+--
+
+<!-- .slide: class="avantatge" -->
+## Compiladors - Avantatges
+
+*   Es detecten errors abans d'executar el programa (errors de compilació)
+
+*   El codi màquina generat és més ràpid (ja que s'optimitza)
+
+*   És més fàcil fer la depuració de codi
+
+--
+
+<!-- .slide: class="desavantatge" -->
+## Compiladors - Desavantatges
+
+*   El procés de compilació del codi és lent.
+
+*   No és útil per executar programes des d'Internet ja que cal descarregar tot el programa abans de traduir-ho, la qual cosa ralenteix molt el seu ús.
+
+---
+
+## Cicle de vida d'una aplicació informàtica
+
+*   Una aplicació informàtica es compon d'un o diversos programes interrelacionats que tenen per objecte la realització d'una determinada tasca de forma automàtica.
+
+    *Exemple d'aplicació informàtica: Word.*
+
+    *Exemple de programa: Corrector ortogràfic del Word.*
+
+*   El procés que se segueix des del plantejament d'un problema fins a tenir una solució instal·lada en la computadora, i en funcionament pels usuaris finals, es denomina **cicle de vida d'una aplicació informàtica**.
+
+--
+
+## Fases del cicle de vida d'una aplicació informàtica
+
+<img height="450" src="/img/ciclevidasoftware.png" />
+
+--
+
+## Fase d'anàlisi
+
+*   Es determinen els requisits que ha de complir l'aplicació. S'anota tot allò que afecta al futur funcionament de l'aplicació. Aquest pas li realitza un analista.
+
+*   Consisteix en l'examen i descripció detallada dels següents aspectes relatius al problema:
+    *   Equip a utilitzar
+    *   Requeriments de l'usuari
+    *   Estudi de les dades d'entrada
+    *   Estudi de les dades de sortida
+    *   Relació entre la sortida i l'entrada
+    *   Descomposició del problema en mòduls
+
+--
+
+## Fase d'anàlisi
+
+*   En la creació d'algorismes senzills, l'anàlisi consistiria únicament en:
+
+    *   **Determinar les entrades.** Les dades que posseeix l'algorisme quan comença la seva execució. Aquestes dades permeten obtenir el resultat.
+
+    *   **Determinar les sortides.** Les dades que obté l'algorisme com a resultat. El que l'algorisme retorna a l'usuari.
+
+    *   **Determinar el procés.** S'estudia quin és el procés que cal realitzar.
+
+--
+
+## Fase de programació (disseny)
+
+*   S'especifiquen els **esquemes de disseny de l'aplicació**. Aquests esquemes formen els plànols del programador, els realitza l'analista i representen tots els aspectes que requereix la creació de l'aplicació.
+
+*   Consisteix en el disseny de la solució al problema plantejat en forma d'algorisme o conjunt d'accions que hauran de ser realitzades per la computadora. Es representa mitjançant **Pseudocodi** o **diagrames de flux (ordinogrames)**.
+
+--
+
+## Fase de codificació
+
+*   En aquesta fase es transcriu l'algorisme resultant de la fase anterior a un llenguatge de programació concret. És una tasca totalment mecànica. El resultat és el **codi font del programa**. Aquesta és la primera labor que realitza el programador.
+
+--
+
+## Fase de compilació
+
+*   Traducció del codi font a llenguatge màquina. Aquesta fase es realitza automàticament a través d'un programa **compilador**. El resultat es denomina **programa objecte**.
+
+--
+
+## Fase de muntatge
+
+*   Als programes compilats és necessari afegir al programa objecte algunes rutines (subprogrames) del sistema o en alguns casos subprogrames externs que s'hagin compilat separadament. D'això s'encarrega el programa muntador (**linker**).
+
+--
+
+## Fase de prova d'execució
+
+*   Consisteix a executar el programa successives vegades amb diferents dades de prova per assegurar el seu correcte funcionament.
+
+--
+
+## Fase d'explotació i manteniment
+
+*   **L'explotació** és l'ús continu i habitual per part dels usuaris finals.
+
+*   **El manteniment** consisteix en la comprovació periòdica del seu bon funcionament i en l'adaptació a qualsevol nova circumstància que impliqui la seva actualització: efecte 2000, euro €, canvi % IVA, etc.
+
+---
+
+## Errors
+
+*   Durant el desenvolupament d'un programa o aplicació s'ha de ser especialment acurat per evitar errors.
+
+*   Els errors es poden classificar en:
+
+    *   Errors de compilació (sintàctics)
+    *   Errors d'execució
+    *   Errors de lògica
+    *   Errors d'especificació
+
+--
+
+## Errors de compilació (sintàctics)
+
+*   Corresponen a **l'incompliment de les regles sintàctiques del llenguatge**, com per exemple, una paraula reservada del llenguatge mal escrita, una instrucció incompleta, etc.
+
+*   Són **fàcils de corregir** ja que **són detectats pel compilador**, el qual dóna un missatge d'error per facilitar la seva correcció.
+
+--
+
+## Errors d'execució
+
+*   Es deuen generalment a **operacions no permeses**, com dividir per zero, llegir una dada no numèrica en una variable numèrica, excedir un rang de valors permesos, etc.
+
+*   Es detecten perquè es produeix una **parada anormal del programa durant la seva execució**, i es diu llavors que el programa ha “caigut”, ha “petat”, o ha estat “avortat” pel sistema.
+
+*   Són més difícils de detectar i corregir que els errors sintàctics ja que ocorren o no depenent de les dades d'entrada que s'utilitzin.
+
+--
+
+## Errors de lògica
+
+*   Corresponen a l'obtenció pel programa de **resultats que no són correctes**, i l'única manera de detectar-los és realitzant un nombre suficient d'execucions de prova, utilitzant dades de prova i comparant els resultats produïts pel programa amb els obtinguts “a mà” per a aquestes mateixes dades.
+
+*   Són **més difícils de corregir** no només per la dificultat de detectar-los, sinó perquè surten de mal disseny del programa.
+
+--
+
+## Errors d'especificació
+
+*   Es deuen a la **mala comunicació entre el client i el programador** (o professor i alumne).
+
+*   Es detecten quan ja ha conclòs el disseny i instal·lació del programa, per la qual cosa la seva correcció suposa la **repetició de gran part del treball realitzat**.
+
+*Exemple: Un empresari té les dades dels seus clients en una BBDD d'Access, i necessita un programa de gestió que ha d'accedir a la BBDD. Sol·licita a un programador un programa de gestió sense concretar la BBDD a la qual s'ha d'accedir. El programador realitza el programa, però aquest només pot accedir a BBDD d'Oracle.*
+
+---
+
+## Qualitat dels programes
+
+*   Per a un determinat problema es poden construir **diferents algorismes de resolució o programes**. L'elecció del més adequat s'ha de basar en una sèrie de requisits de qualitat:
+
+    *   Llegibilitat
+    *   Fiabilitat
+    *   Portabilitat
+    *   Modificabilitat
+    *   Eficiència
+
+--
+
+## Qualitat dels programes
+
+*   **Llegibilitat:** Ha de ser clar i senzill, de manera que faciliti la seva lectura i comprensió.
+
+*   **Fiabilitat:** Ha de ser “robust”, és a dir, capaç de recuperar-se enfront d'errors o usos inadequats.
+
+*   **Portabilitat:** El seu disseny ha de permetre la codificació en diferents llenguatges de programació, així com la seva instal·lació en diferents sistemes.
+
+--
+
+## Qualitat dels programes
+
+*   **Modificabilitat:** Ha de facilitar el seu manteniment, això és, les modificacions i actualitzacions necessàries per adaptar-ho a una nova situació.
+
+*   **Eficiència:** S'han d'aprofitar al màxim els recursos de la computadora, minimitzant la memòria utilitzada (eficiència espacial), i el temps de procés o execució (eficiència temporal).
+
+---
+
+## Documentació dels programes
+
+*   Amb la finalitat de facilitar el manteniment d'un programa i la reutilització d'algun dels seus mòduls, és fonamental que aquest s'acompanyi d'una documentació **àmplia, clara i precisa**.
+
+*   En la documentació s'ha d'incloure:
+    *   Especificacions de l'anàlisi
+    *   Descripció del disseny del programa (algorisme)
+    *   Codi font **comentat**, sagnat, paginat, etc.
+    *   Manual d'usuari
+
+--
+
+## Documentació dels programes - Comentaris
+
+*   Són **frases explicatives** que s'insereixen en qualsevol lloc del **codi font** i que són **ignorades pel compilador**.
+
+*   S'han d'incloure **tants comentaris com siguin necessaris** per **aclarir el significat** de les línies de codi que no siguin òbvies, especialment respecte a:
+    *   Les variables i estructures de dades declarades
+    *   Les estructures de control (bucles, alternatives, ...)
+    *   Els subprogrames i els seus paràmetres
+
+---
+
+## Elements bàsics d'un programa: dades
+
+*   Tot programa consta d'unes accions (**codi de l'algorisme**), i de la informació necessària per realitzar-les (**dades** o entorn del programa).
+
+    *   **Dada:** unitat de tractament d'informació d'un tipus determinat (numèric, alfanumèric, booleà, etc). Per a un ordinador, totes les dades es representen en sistema binari (0 i 1) independentment del tipus.
+
+    *   **Informació:** conjunt de dades relacionades entre si dins d'un context. Per exemple l'edat i el domicili d'una persona formen part de les seves dades.
+
+--
+
+## Elements bàsics d'un programa: dades
+
+*   En un programa la informació es guarda en diversos tipus d'elements, entre els quals es troben les **constants** i les **variables**.
+
+--
+
+## Elements bàsics d'un programa: dades
+
+*   Els elements que emmagatzemen informació posseeixen 3 característiques bàsiques:
+
+    *   **Nom (identificador):** És el que servirà per identificar-ho o referenciar-ho.
+
+    *   **Tipus:** Rang de valors que pot prendre. Determina l'espai de memòria que s'ha de reservar.
+
+    *   **Valor:** Informació que s'emmagatzema a l'espai de memòria reservat.
+
+--
+
+## Dades - Identificadors
+
+*   Són els noms que usa el programador per referenciar les dades i altres elements del programa (estructures de dades, tipus, arxius, subprogrames, etc.).
+
+<br/>
+
+### Normes per a la utilització d'identificadors
+*   Es forma amb lletres, nombres i/o guions (_), començant sempre amb una lletra.
+*   No ha de contenir espais.
+*   El nom assignat ha de tenir relació amb la informació que conté.
+
+--
+
+## Dades - Identificadors
+## Exemples
+
+*   *El nom d'un client:* **nom_client**
+*   *La data d'adquisició:* **data_adq**
+*   *L'import total:* **ImportTotal**
+*   *La identificació d'un empleat:* **id_empleat**
+*   *Codi d'identificació d'un client:* **codiClient**
+*   *Preu de venda d'un producte:* **preu_venda**
+*   *Codi d'identificació d'un article:* **CodArt**
+
+--
+
+## Dades - Tipus
+
+<img height="450" src="/img/tipusdedades.png" />
+
+---
+
+## Dades bàsiques
+
+### Nombre enter
+*   És un subconjunt dels nombres enters el rang dels quals o grandària depèn del llenguatge i la computadora utilitzada.
+
+*Exemples: 23, -32, +54*
+
+--
+
+## Dades bàsiques
+
+### Nombre real
+*   És un subconjunt dels nombres reals limitat quant a la grandària i la precisió. Es poden expressar de 2 maneres diferents: notació de punt fix i notació exponencial.
+
+*Exemples:*
+
+Notació punt fix | Notació exponencial
+- | -
+97.84 | 0.9784E2
+-12.00 | -120000E-4
++0.5 | +0.0005E+3 
+
+--
+
+## Dades bàsiques
+
+### Caràcter
+*   Està format pel conjunt de caràcters del codi ASCII. Es representen entre cometes simples.
+
+*Exemples: ‘A’, ‘b’, ‘5’, ‘-‘, ‘?’, ‘ ‘,...*
+
+*   En alguns llenguatges es considera també com a tipus de dades simples l'alfanumèric o cadenes de caràcters de longitud variable (**string** en anglès).
+
+*Exemples: “L'H”, “08901”, “C/ Sant Pius X, núm. 8”.*
+
+--
+
+## Dades bàsiques
+
+## Booleà
+*   És el conjunt format pels valors:
+    *   FALS: FALSE, 0
+    *   CERT: TRUE, 1
+
+--
+
+## Constants
+*   Són **dades** el valor de les quals roman **invariable al llarg de l'execució d'un programa**.
+
+*   Se solen representar amb lletres **majúscules**.
+
+*Exemples:*
+*   PI = 3.14159
+*   IVA = 21
+
+--
+
+## Variables
+*   Són **dades** el valor de les quals **pot ser modificat al llarg de l'execució d'un programa.**
+
+*Exemples:*
+*   x &#8592; 0 
+*   x &#8592; x + 1
+
+---
+
+## Expressions i operadors
+### Operadors
+*   Els **símbols** que permeten **combinar les dades per crear les expressions** es denominen **operadors**.
+
+*   Tipus d'operadors:
+    *   Operadors aritmètics
+    *   Operadors relacionals
+    *   Lògics
+    *   Alfanumèrics
+    *   Parèntesi
+
+--
+
+## Operadors aritmètics
+
+![](/img/operadorsnumerics.png)
+
+--
+
+## Operadors relacionals
+
+![](/img/operadorsrelacionals.png)
+
+--
+
+## Operadors lògics
+
+![](/img/operadorslogics.png)
+
+--
+
+## Alfanumèrics
+
+Operador | Significat
+- | -
++ | concatenació
+
+<br/>
+
+## Parèntesi
+
+Operador | Significat
+- | -
+() | s'utilitza per niar expressions
+
+---
+
+## Taules de veritat dels operadors lògics
+El resultat de les operacions lògiques està determinat per les taules de veritat corresponents a cadascuna d'elles.
+
+--
+
+## Operador NOT
+
+A | no A
+- | :-:
+F | C
+C | F
+
+## Operador AND, OR i XOR
+
+A | B | A i B | A or B | A xor B
+- | - | :-: | :-: | :-:
+F | F | F | F | F
+F | C | F | C | C
+C | F | F | C | C
+C | C | C | C | F
+
+---
+
+## Ordre d'avaluació dels operadors
+1. Parèntesi
+2. Signe
+3. Potències
+4. Productes i divisions
+5. Sumes i restes
+6. Concatenació
+7. Relacionals
+8. Negació
+9. Conjunció
+10. Disjunció
+
+Operadors d'igual ordre => **d'esquerra a dreta**.
+
+---
+
+## Expressions
+Conjunt de dades (operands) i operadors amb unes regles específiques de construcció.
+
+*   **Expressions numèriques:** Produeixen resultats de tipus numèric. Es construeixen mitjançant els operadors aritmètics.
+*Exemple: PI * x*
+
+*   **Expressions booleanes:** Produeixen resultats CERT o FALS. Es construeixen mitjançant els operadors relacionals i lògics.
+*Exemple: A > 0 i B <= 5*
+
+* **Expressions alfanumèriques:** Produeixen resultats de tipus alfanumèric. Es construeixen mitjançant els operadors alfanumèrics.
+*Exemple: “Don “ + N*
+					</textarea>
+				</section>
+			</div>
+		</div>
+
+		<script src="lib/js/head.min.js"></script>
+		<script src="js/reveal.js"></script>
+
+		<script>
+			// More info about config & dependencies:
+			// - https://github.com/hakimel/reveal.js#configuration
+			// - https://github.com/hakimel/reveal.js#dependencies
+			Reveal.initialize({
+				keyboard: {
+ 					39: 'navigateNext',
+  					37: 'navigatePrev'
+				},
+				mouseWheel: true,
+				dependencies: [
+					{ src: 'plugin/markdown/marked.js' },
+					{ src: 'plugin/markdown/markdown.js' },
+					{ src: 'plugin/fullscreen/fullscreen.js' },
+					{ src: 'plugin/notes/notes.js', async: true },
+					{ src: 'plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } },
+					{ src: 'plugin/menu/menu.js' },
+					{ src: 'plugin/zoom-js/zoom.js' },
+					{ src: 'plugin/math/math.js' }
+				]
+			});
+		</script>
+	</body>
+</html>
