@@ -1,6 +1,6 @@
 ## SMX1
 ### M05. Xarxes Locals
-*   [M05. Presentació inicial](https://pduran5.github.io/SMX.M05.Presentació_inicial.html)
+*   [M05. Presentació inicial](https://pduran5.github.io/SMX.M05.Presentació inicial.html)
 
 
 ## ASIX1

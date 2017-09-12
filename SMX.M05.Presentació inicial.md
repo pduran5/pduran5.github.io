@@ -102,7 +102,3 @@ Nota Final Mòdul `$ = 0.40·Q_{UF1} + 0.20·Q_{UF2} + 0.20·Q_{UF3} $`
 | UF2. NF1. Xarxes sense fils |
 | UF2. NF3. VLANs i configuració d'elements actius |
 | UF3. Resolució d'incidències en xarxes locals |
-
----
-
-<!-- .slide: data-background="https://media.giphy.com/media/dA6d16kxeS6fS/giphy.gif" -->
