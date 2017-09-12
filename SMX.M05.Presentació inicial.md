@@ -89,7 +89,7 @@ Nota Final UF3 `$ = 0.20·Q_{RA1} + 0.17·Q_{RA2} + 0.42·Q_{RA3} + 0.21·Q_{RA4
 
 ## M05. Xarxes Locals
 
-Nota Final Mòdul `$ = 0.40·Q_{UF1} + 0.20·Q_{UF2} + 0.20·Q_{UF3} $`
+Nota Final Mòdul `$ = 0.40·Q_{UF1} + 0.40·Q_{UF2} + 0.20·Q_{UF3} $`
 
 ---
 
