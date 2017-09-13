@@ -5,7 +5,7 @@
 
 ---
 
-# M07. Desenvolupament Web en Entorn Servidor
+# M07. DWES 
 
 | Unitat Formativa | Hores |
 | - |:-:|
@@ -16,7 +16,7 @@
 
 ---
 
-## M07.UF1. Desenvolupament web en entorn servidor (46h)
+## M07. UF1. Desenvolupament web en entorn servidor (46h)
 
 | Nucli Formatiu | Hores |
 | - |:-:|
@@ -25,7 +25,7 @@
 
 --
 
-## M07.UF1. Desenvolupament web en entorn servidor
+## M07. UF1. Desenvolupament web en entorn servidor
 
 | Instrument d'avaluació | % UF1 |
 | - |:-:|
@@ -38,7 +38,7 @@
 
 --
 
-## M07.UF1. Avaluació
+## M07. UF1. Avaluació
 
 *   Les pràctiques **Pt2** i **Pt4** es permeten lliurar **fora de termini (màxim de 7 dies naturals)** amb una **penalització del 5% per dia** de la nota real.
 
@@ -46,7 +46,7 @@
 
 ---
 
-## M07.UF2. Generació dinàmica de pàgines web (47h)
+## M07. UF2. Generació dinàmica de pàgines web (47h)
 
 | Nucli Formatiu | Hores |
 | - |:-:|
@@ -55,7 +55,7 @@
 
 --
 
-## M07.UF2. Generació dinàmica de pàgines web (47h)
+## M07. UF2. Generació dinàmica de pàgines web (47h)
 
 | Instrument d'avaluació | % UF2 |
 | - |:-:|
@@ -63,12 +63,19 @@
 | Pt2. Pràctica de separació de la lògica de negoci en PHP | 14% |
 | Pt3. Pràctica de Servlets en JSP | 6% |
 | Pt4. Pràctica de separació de la lògica de negoci en JSP | 14% |
+
+--
+
+## M07. UF2. Generació dinàmica de pàgines web (47h)
+
+| Instrument d'avaluació | % UF2 |
+| - |:-:|
 | Pe1. Prova escrita generació dinàmica pàgines web en PHP | 25% |
 | Pe2. Prova escrita generació dinàmica pàgines web en JSP | 35% |
 
 --
 
-## M07.UF2. Avaluació
+## M07. UF2. Avaluació
 
 *   Les pràctiques **Pt2** i **Pt4** es permeten lliurar **fora de termini (màxim de 7 dies naturals)** amb una **penalització del 5% per dia** de la nota real.
 
@@ -76,7 +83,7 @@
 
 ---
 
-## M07.UF3. Accés a dades (30h)
+## M07. UF3. Accés a dades (30h)
 
 | Nucli Formatiu | Hores |
 | - |:-:|
@@ -85,7 +92,7 @@
 
 --
 
-## M07.UF3. Accés a dades
+## M07. UF3. Accés a dades
 
 | Instrument d'avaluació | % UF3 |
 | - |:-:|
@@ -94,7 +101,7 @@
 
 --
 
-## M07.UF3. Accés a dades
+## M07. UF3. Accés a dades
 
 | Instrument d'avaluació | % UF3 |
 | - |:-:|
@@ -103,7 +110,7 @@
 
 --
 
-## M07.UF3. Accés a dades
+## M07. UF3. Accés a dades
 
 | Instrument d'avaluació | % UF3 |
 | - |:-:|
@@ -112,7 +119,7 @@
 
 --
 
-## M07.UF3. Avaluació
+## M07. UF3. Avaluació
 
 *   Les pràctiques **Pt2** i **Pt4** es permeten lliurar **fora de termini (màxim de 7 dies naturals)** amb una **penalització del 5% per dia** de la nota real.
 
@@ -120,7 +127,7 @@
 
 ---
 
-## M07.UF4. Serveis web. Pàgines dinàmiques interactives. Webs híbrids (42h)
+## M07. UF4. Serveis web. Pàgines dinàmiques interactives. Webs híbrids (42h)
 
 | Nucli Formatiu | Hores |
 | - |:-:|
@@ -129,7 +136,7 @@
 
 --
 
-## M07.UF4. Serveis web. Pàgines dinàmiques interactives. Webs híbrids
+## M07. UF4. Serveis web. Pàgines dinàmiques interactives. Webs híbrids
 
 | Instrument d'avaluació | % UF4 |
 | - |:-:|
@@ -140,7 +147,7 @@
 
 --
 
-## M07.UF4. Avaluació
+## M07. UF4. Avaluació
 
 *   La pràctica **Pt2** es permet lliurar **fora de termini (màxim de 7 dies naturals)** amb una **penalització del 5% per dia** de la nota real.
 
