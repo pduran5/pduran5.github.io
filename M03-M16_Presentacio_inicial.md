@@ -10,7 +10,7 @@
 
 | Unitat Formativa | Hores |
 | - |:-:|
-| UF1. Programació estructurada | 65h |
+| UF1. Programació estructurada | 85h |
 | UF2. Disseny modular | 50h |
 | UF3. Fonaments de gestió de fitxers | 30h |
 <br/>
@@ -22,13 +22,13 @@
 
 ---
 
-## M03. UF1. Programació estructurada (65h)
+## M03. UF1. Programació estructurada (85h)
 
 | Nucli Formatiu | Hores |
 | - |:-:|
-| NF1. Programació estructurada en C | 30h |
-| NF2. Estructures de dades en C | 25h |
-| NF3. Memòria dinàmica | 10h |
+| NF1. Programació estructurada en C | 25h |
+| NF2. Estructures de dades en C | 45h |
+| NF3. Memòria dinàmica | 15h |
 
 --
 
@@ -98,7 +98,7 @@ Nota Final UF1 `$ = 0.25·Q_{RA1} + 0.25·Q_{RA2} + 0.50·Q_{RA3} $`
 
 ## M03. Programació
 
-Nota Final Mòdul `$ = 0.39·Q_{UF1} + 0.43·Q_{UF2} + 0.18·Q_{UF3} $`
+Nota Final Mòdul `$ = \frac{85·Q_{UF1} + 50·Q_{UF2} + 30·Q_{UF3}}/{169} $`
 
 <br/>
 
