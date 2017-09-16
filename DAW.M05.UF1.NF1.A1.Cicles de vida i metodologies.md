@@ -12,7 +12,7 @@
 
 ## Desenvolupament de programari
 
-*   Tota aplicació informàtica ha seguit un procediment planificat i desenvolupat detall per detall per a la seva creació:
+*   Tota **aplicació informàtica** ha seguit un **procediment** planificat i desenvolupat detall per detall **per a la seva creació**:
 
     *   Analitzar les necessitats.
     *   Dissenyar una solució.
@@ -28,7 +28,7 @@
 
 *   Per **executar un programa** s'entén fer que l'ordinador segueixi totes les seves ordres, des de la primera fins a la darrera.
 
----
+--
 
 ## Codi font i compilació
 
@@ -36,7 +36,7 @@
 
 * La **compilació** és la traducció del codi font en fitxers en format binari que contenen les intruccions en un format que el processador pot entendre.
 
----
+--
 
 ## Codi objecte i codi executable
 
@@ -44,7 +44,7 @@
 
 * El **codi executable** és la traducció completa a codi màquina, duta a terme per l'enllaçador (o **linker**). El codi executable és interpretat directament per l'ordinador.
 
----
+--
 
 ## Linker i llibreria
 
@@ -52,8 +52,8 @@
 
 * Una **llibreria** és una col·leció de codi predefinit que facilita la tasca del programador a l'hora de codificar un programa.
 
----
+--
 
 ## Procés de transformació codi font a executable
 
-[](/img/ic10m05u1_01.png)
+![](/img/ic10m05u1_01.png)
