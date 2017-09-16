@@ -129,5 +129,12 @@
 
 ---
 
+## Metodologies Agile
+
+<iframe width="900" height="500" src="https://www.youtube.com/embed/mCvIg01KnZ0?rel=0;autoplay=0" frameborder="0" allowfullscreen data-autoplay></iframe>
+
+---
+
 ## Metodologia SCRUM
 
+<iframe width="900" height="500" src="https://www.youtube.com/embed/PlLHc60egiQ?rel=0;autoplay=0" frameborder="0" allowfullscreen data-autoplay></iframe>
