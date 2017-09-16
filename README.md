@@ -12,3 +12,7 @@
 ## DAW2
 ### M07. Desenvolupament Web en Entorn Servidor
 *   [M07. Presentació inicial del mòdul](https://pduran5.github.io/DAW.M07.Presentació inicial.html)
+
+## DAW2-BIO
+### M05. Entorns de Desenvolupament
+*   [M05. Presentació inicial del mòdul](https://pduran5.github.io/DAW.M05.Presentació inicial.html)
