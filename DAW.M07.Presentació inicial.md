@@ -114,8 +114,8 @@
 
 | Instrument d'avaluació | % UF3 |
 | - |:-:|
-| Pe1. Prova escrita generació dinàmica pàgines web en PHP | 30% |
-| Pe2. Prova escrita generació dinàmica pàgines web en JSP | 30% |
+| Pe1. Prova escrita coneixements pràctics accés a dades en PHP | 30% |
+| Pe2. Prova escrita coneixements pràctics accés a dades en JSP | 30% |
 
 --
 
