@@ -14,7 +14,7 @@
 
 # Requisits funcionals (RF)
 
-- Són declaracions de serveis que el software hauria de proporcionar, com hauria de reaccionar a determinades entrades i com hauria de comportar-se en situacions particulars.
+- Són declaracions dels serveis que proveirà el sistema, com hauria de reaccionar a determinades entrades i com hauria de comportar-se en situacions particulars.
 
 - En alguns casos, el requeriments funcionals també poden expressar explícitament el que el software no ha de fer.
 
@@ -40,23 +40,23 @@
 
 - Aquests requisits d'usuari defineixen funcionalitats específiques que s'han d'incloure al software.
 
-- Els RFs poden fer referència a diferents nivells de detalls (RF1 vs RF3).
+- Els RFs poden fer referència a diferents nivells de detall (RF1 vs RF3).
 
 --
 
 # Requisits funcionals (RF)
 
-- Idealment, l'especificació de RFs s'un software haurie de ser:
-    - **completa**: tots els serveis i informació requerida per l'usuari hauria d'estar definit.
+- Idealment, l'especificació de RFs s'un software hauria de ser:
+    - **completa**: tots els serveis i informació requerida per l'usuari hauria d'estar definida.
     - **coherent**: els requisits no han de ser contradictoris.
 
 ---
 
 # Requisits no funcionals (RNF)
 
-- Són restriccions sobre els serveis o funcions oferides pel software. S'inclouen les restriccions temporals, restriccions al procés de desenvolupament i restriccions imposades pels estandards.
+- Són aquells requeriments que no es refereixen directament a les funcions específiques que lliura el sistema, sinó a les propietats emergents d'aquest.
 
-- S'apliquen sovint al conjunt del software i no a la característiques individuals d'aquest.
+- Poden ser restriccions sobre els serveis o funcions oferides pel software. S'inclouen les restriccions temporals, restriccions al procés de desenvolupament i restriccions imposades pels estandards.
 
 --
 
@@ -65,18 +65,18 @@
     - el **temps de resposta**
     - **l'ús de memòria**
 
-- Alternativament, poden definir retriccions a la implementació del sistema, com poden ser:
+- Alternativament, poden definir restriccions a la implementació del sistema, com poden ser:
     - capacitat dels dispositius d'E/S
     - representació de les dades utilitzada en les interfícies amb altres sistemes.
 
 --
 
 - Exemple de RNFs d'aplicació per guardar informació de pacients que reben un tractament de salut mental:
-    - Requisit de producte
+    - **Requisit de producte:**
         - **RNF1.** L'aplicatiu estarà disponible per totes les clíniques en l'horari de DL a DV de 8h30 a 17h30.
-    - Requisit organitzatiu:
+    - **Requisit organitzatiu:**
         - **RNF2.** Els usuaris hauran d'identificar-se amb el seu carnet de l'autoritat sanitària.
-    - Requisit extern:
+    - **Requisit extern:**
         - **RNF3.** El sistema haurà d'implementar la normativa ISO 9001:2015
 
 --
