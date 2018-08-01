@@ -118,14 +118,14 @@ Nota Final Mòdul `$ = 0.27·Q_{UF1} + 0.33·Q_{UF2} + 0.40·Q_{UF3} $`
 | - | - |
 | CCNA1. Introduction to Networks | UF1 |
 | CCNA2. Routing and Switching Essentials | UF2 i UF3 |
-| CCNA3. Scaling Networks | UF2-UF3 |
+| CCNA3. Scaling Networks | UF2 i UF3 |
 | CCNA4. Connecting Networks | NA |
 
 --
 
 ## Certificacions CCNA
 
-* Els examens de CCNA de cada capítol es podràn realitzar a casa i contaran per la nota de cada UF.
+* Els exàmens de CCNA de cada capítol es podran realitzar a casa i comptaran per la nota de cada UF.
 * L'examen final dels mòduls CCNA es farà en horari lectiu (optatiu).
   * A la finalització de la UF1 es realitzarà l'examen del CCNA1
   * A la finalització de la UF3 es realitzarà els exàmens del CCNA2 i CCNA3.
@@ -134,7 +134,7 @@ Nota Final Mòdul `$ = 0.27·Q_{UF1} + 0.33·Q_{UF2} + 0.40·Q_{UF3} $`
 
 ## Materials alumnat
 
-* Els materials dels cursos de CISCO es donaran integrament en **anglès**.
+* Els materials dels cursos de CISCO es donaran íntegrament en **anglès**.
 
   *  Cisco Network Academy (www.netacad.com)
   *  Wiki amb seqüenciació i presentacions instructor.
