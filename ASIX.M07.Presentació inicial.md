@@ -37,12 +37,12 @@
 
 | Intrument avaluació | % UF1 |
 | - |:-:|
-| Pe1. Examen de UF1.NF1 i UF1.NF2 | 20% |
-| Pe2. Examen de UF1.NF3 | 15% |
-| Pt1. Pràctica UF1.NF1 | 12% |
-| Pt2. Pràctica UF1.NF2 | 10% |
-| Pt3. Pràctica UF1.NF3 | 18% |
-| Pt4. Examens CISCO UF1 | 25% |
+| Pe1. Examen UF1-NF1 i UF1-NF2 | 20% |
+| Pe2. Examen UF1-NF3 | 15% |
+| Pt1. Pràctiques UF1-NF1 | 12% |
+| Pt2. Pràctiques UF1-NF2 | 10% |
+| Pt3. Pràctiques UF1-NF3 | 18% |
+| Pt4. Exàmens CISCO UF1 | 25% |
 
 ---
 
@@ -67,11 +67,11 @@
 
 | Intrument avaluació | % UF2 |
 | - |:-:|
-| Pe1. Examen de UF2.NF1 | 20% |
-| Pe2. Examen de UF2.NF2 | 15% |
-| Pt1. Pràctica UF2.NF1 | 23% |
-| Pt2. Pràctica UF2.NF2 | 17% |
-| Pt3. Examens CISCO UF2 | 25% |
+| Pe1. Examen UF2-NF1 | 20% |
+| Pe2. Examen UF2-NF2 | 15% |
+| Pt1. Pràctiques UF2-NF1 | 23% |
+| Pt2. Pràctica UF2-NF2 | 17% |
+| Pt3. Exàmens CISCO UF2 | 25% |
 
 ---
 
@@ -80,7 +80,7 @@
 | Nucli Formatiu | Hores |
 | - |:-:|
 | NF1. VLAN i NAT | 30h |
-| NF2. Subxarxes VLSM i protocols d'enrutament | 36h |
+| NF2. Subxarxes VLM i protocols d'enrutament | 36h |
 
 --
 
@@ -98,11 +98,11 @@
 
 | Intrument avaluació | % UF3 |
 | - |:-:|
-| Pe1. Examen de UF3.NF1 | 15% |
-| Pe2. Examen de UF3.NF2 | 20% |
-| Pt1. Pràctica UF3.NF1 | 15% |
-| Pt2. Pràctica UF3.NF2 | 25% |
-| Pt3. Examens CISCO UF3 | 25% |
+| Pe1. Examen UF3-NF1 | 15% |
+| Pe2. Examen UF3-NF2 | 20% |
+| Pt1. Pràctiques UF3-NF1 | 15% |
+| Pt2. Pràctiques UF3-NF2 | 25% |
+| Pt3. Exàmens CISCO UF3 | 25% |
 
 ---
 
@@ -117,7 +117,7 @@ Nota Final Mòdul `$ = 0.27·Q_{UF1} + 0.33·Q_{UF2} + 0.40·Q_{UF3} $`
 | Mòdul CCNA | UF |
 | - | - |
 | CCNA1. Introduction to Networks | UF1 |
-| CCNA2. Routing and Switching Essentials | UF2-UF3 |
+| CCNA2. Routing and Switching Essentials | UF2 i UF3 |
 | CCNA3. Scaling Networks | UF2-UF3 |
 | CCNA4. Connecting Networks | NA |
 
@@ -128,7 +128,7 @@ Nota Final Mòdul `$ = 0.27·Q_{UF1} + 0.33·Q_{UF2} + 0.40·Q_{UF3} $`
 * Els examens de CCNA de cada capítol es podràn realitzar a casa i contaran per la nota de cada UF.
 * L'examen final dels mòduls CCNA es farà en horari lectiu (optatiu).
   * A la finalització de la UF1 es realitzarà l'examen del CCNA1
-  * A la finalització de la UF3 es realitzarà els examens del CCNA2 i CCNA3.
+  * A la finalització de la UF3 es realitzarà els exàmens del CCNA2 i CCNA3.
 
 --
 
@@ -138,6 +138,7 @@ Nota Final Mòdul `$ = 0.27·Q_{UF1} + 0.33·Q_{UF2} + 0.40·Q_{UF3} $`
 
   *  Cisco Network Academy (www.netacad.com)
   *  Wiki amb seqüenciació i presentacions instructor.
+  *  Moodle per lliuraments
 
 * Taller amb switchos i routers CISCO.
 
