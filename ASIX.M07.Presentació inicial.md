@@ -33,39 +33,39 @@
 
 --
 
-## M07. UF1. NF1. Conceptes bàsics de xarxes
+### M07. UF1. NF1. Conceptes bàsics de xarxes
 
 * Inscripció a la plataforma NetAcad de CISCO
 * Protocols de xarxa i model OSI
 * Introducció a Packet Tracer
-* Configuració bàsica de Cisco IOS
 * Connexió per cable de consola i navegació bàsica IOS
+* Configuració inicial d'un switch
 * Investigació dels models TCP-IP i OSI en acció
 * Utilització de Wireshark per veure el tràfic de xarxa
 
 --
 
-## M07. UF1. NF2. Capa física i d'enllaç de dades
+### M07. UF1. NF2. Capa física i d'enllaç de dades
 
-* Construcció i verificació de cables directes i creuats
-* Fibra òptica. Fusió i verificació de fibra òptica
+* Ethernet. Construcció i verificació cable directe i creuat
+* Fibra òptica. Construcció i verificació fibra òptica
 * Connexió sense fils. Els espectres d'ona de microones i ràdio.
 Topologies. Associació i Autenticació a la WLAN.
 * Protocol Ethernet
-* Els dominis de difusió i col·lisió
+* Dominis de difusió i col·lisió
 * Protocol de resolució d’adreces ARP
 
 --
 
-## M07. UF1. NF3. Capa de xarxa i transport
+### M07. UF1. NF3. Capa de xarxa i transport
 
 * Protocols de la capa de xarxa
-* Protocols de la capa de transport TCP i UDP
+* Sistemes de numeració decimal, binari i hexadecimal
 * Adreces de xarxa IPv4 i IPv6. Assignació d’adreces
-* Divisió de xarxes IP en subxarxes. Subnetting màscara fixa
-* Capa d’aplicació
-* Configuració d’un sistema operatiu de xarxa
-* Crear una xarxa petita
+* Divisió de xarxes IP en subxarxes. Subnetting màscara fixa i VLSM
+* Protocols de la capa de transport. TCP i UDP
+* Capa d’aplicació. Web, Email, DNS, DHCP i FTP.
+* Crear una xarxa petita. Resolució de problemes.
 
 --
 
@@ -99,14 +99,25 @@ Topologies. Associació i Autenticació a la WLAN.
 
 --
 
-* M07. UF2. NF1. Configuració i administració bàsica de commutadors i encaminadors
+### M07. UF2. NF1. Configuració i administració bàsica de commutadors i encaminadors
 
 * Conceptes bàsics i funcionament switch: taula de commutació, inundació, reenviament selectiu...
 * Configuració de switchos per CLI
-* Configuració bàsica de VLAN. Ports mode accés i mode trunk.
-* Conceptes de routing i funcionament del router.
+* Configuració bàsica de VLAN. Ports mode accés i mode trunk
+* Conceptes de routing i funcionament del router
 * Configuració inicial del router
-* Simulació enrutament IPv4 i IPv6 i configuració routers
+* Simulació enrutament IPv4, IPv6 i configuració routers
+* Configuració de rutes estàtiques i predeterminades
+
+--
+
+### M07. UF2. NF2. Configuració i administració avançada de commutadors i encaminadors
+
+* Redundància. Estructura jeràrquica. Capes d'accés, distribució i nucli.
+* Protocol STP. Simulació.
+* Redundància amb switchos.
+* Seguretat d'accés perimetral en routers CISCO
+* Màscares wildcard. Disseny d’ACL standard i extended
 
 --
 
@@ -138,6 +149,30 @@ Topologies. Associació i Autenticació a la WLAN.
 *   RA2. Realitza tasques avançades d'administració de xarxa analitzant i utilitzant protocols dinàmics d'encaminament.
 
 *   RA3. Connecta xarxes privades a xarxes públiques identificant i aplicant diferents tecnologies.
+
+--
+
+### M07. UF3. NF1. VLAN i NAT
+
+* Segmentació VLAN
+* Configuració VLAN i enllaços troncals  
+* Encaminament entre VLAN
+* Router-on-a-Stick. Configuració
+* VTP. Extended VLAN. DTP
+* Enrutament amb switchos multicapa
+* DHCPv4 i DHCPv6. SLAAC
+* NAT i PAT. Configuració i resolució problemes
+
+--
+
+### M07. UF3. NF2. Subxarxes VLM i protocols d'enrutament
+
+* Protocols routing dinàmic. Distance vector i Link-State
+* Protocol RIPv2. Configuració
+* Protocols OSPFv2 i OSPFv3 d'àrea única. Configuració
+* Protocols OSPFv2 i OSPFv3 multiàrea. Configuració
+* Protocol EIGRP. Implementació per IPv6
+* Agregació d’enllaços. Configuració d’EtherChannel
 
 --
 
