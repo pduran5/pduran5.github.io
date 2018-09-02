@@ -128,7 +128,7 @@ Topologies. Associació i Autenticació a la WLAN.
 | Pe1. Examen UF2-NF1 | 20% |
 | Pe2. Examen UF2-NF2 | 15% |
 | Pt1. Pràctiques UF2-NF1 | 23% |
-| Pt2. Pràctica UF2-NF2 | 17% |
+| Pt2. Pràctiques UF2-NF2 | 17% |
 | Pt3. Exàmens CISCO UF2 | 25% |
 
 ---
