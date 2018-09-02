@@ -33,6 +33,42 @@
 
 --
 
+## M07. UF1. NF1. Conceptes bàsics de xarxes
+
+* Inscripció a la plataforma NetAcad de CISCO
+* Protocols de xarxa i model OSI
+* Introducció a Packet Tracer
+* Configuració bàsica de Cisco IOS
+* Connexió per cable de consola i navegació bàsica IOS
+* Investigació dels models TCP-IP i OSI en acció
+* Utilització de Wireshark per veure el tràfic de xarxa
+
+--
+
+## M07. UF1. NF2. Capa física i d'enllaç de dades
+
+* Construcció i verificació de cables directes i creuats
+* Fibra òptica. Fusió i verificació de fibra òptica
+* Connexió sense fils. Els espectres d'ona de microones i ràdio.
+Topologies. Associació i Autenticació a la WLAN.
+* Protocol Ethernet
+* Els dominis de difusió i col·lisió
+* Protocol de resolució d’adreces ARP
+
+--
+
+## M07. UF1. NF3. Capa de xarxa i transport
+
+* Protocols de la capa de xarxa
+* Protocols de la capa de transport TCP i UDP
+* Adreces de xarxa IPv4 i IPv6. Assignació d’adreces
+* Divisió de xarxes IP en subxarxes. Subnetting màscara fixa
+* Capa d’aplicació
+* Configuració d’un sistema operatiu de xarxa
+* Crear una xarxa petita
+
+--
+
 ## M07. UF1. Introducció a les xarxes
 
 | Intrument avaluació | % UF1 |
@@ -60,6 +96,17 @@
 *   RA1. Administra commutadors establint opcions de configuració per a la seva integració a la xarxa.
 
 *   RA2. Administra les funcions bàsiques d'un encaminador establint opcions de configuració per a la seva integració a la xarxa.
+
+--
+
+* M07. UF2. NF1. Configuració i administració bàsica de commutadors i encaminadors
+
+* Conceptes bàsics i funcionament switch: taula de commutació, inundació, reenviament selectiu...
+* Configuració de switchos per CLI
+* Configuració bàsica de VLAN. Ports mode accés i mode trunk.
+* Conceptes de routing i funcionament del router.
+* Configuració inicial del router
+* Simulació enrutament IPv4 i IPv6 i configuració routers
 
 --
 
