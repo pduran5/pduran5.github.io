@@ -5,7 +5,7 @@
 
 ---
 
-## M07. PAX
+## M07 PAX
 
 | Unitat Formativa | Hores |
 | - |:-:|
@@ -15,7 +15,7 @@
 
 ---
 
-## M07. UF1. Introducció a les xarxes (44h)
+## UF1. Introducció a les xarxes (44h)
 
 | Nucli Formatiu | Hores |
 | - |:-:|
@@ -25,7 +25,7 @@
 
 --
 
-## M07. UF1. Introducció a les xarxes
+## UF1. Introducció a les xarxes
 
 *   RA1. Reconeix l'estructura de les xarxes de dades identificant els seus elements i principis de funcionament.
 
@@ -33,9 +33,9 @@
 
 --
 
-### M07. UF1. NF1. Conceptes bàsics de xarxes
+### UF1.NF1. Conceptes bàsics de xarxes
 
-* Inscripció a la plataforma NetAcad de CISCO
+* Inscripció a plataforma NetAcad de CISCO
 * Protocols de xarxa i model OSI
 * Introducció a Packet Tracer
 * Connexió per cable de consola i navegació bàsica IOS
@@ -45,7 +45,7 @@
 
 --
 
-### M07. UF1. NF2. Capa física i d'enllaç de dades
+### UF1.NF2. Capa física i d'enllaç de dades
 
 * Ethernet. Construcció i verificació cable directe i creuat
 * Fibra òptica. Construcció i verificació fibra òptica
@@ -57,7 +57,7 @@ Topologies. Associació i Autenticació a la WLAN.
 
 --
 
-### M07. UF1. NF3. Capa de xarxa i transport
+### UF1.NF3. Capa de xarxa i transport
 
 * Protocols de la capa de xarxa
 * Sistemes de numeració decimal, binari i hexadecimal
@@ -69,7 +69,7 @@ Topologies. Associació i Autenticació a la WLAN.
 
 --
 
-## M07. UF1. Introducció a les xarxes
+## UF1. Introducció a les xarxes
 
 | Intrument avaluació | % UF1 |
 | - |:-:|
@@ -82,7 +82,7 @@ Topologies. Associació i Autenticació a la WLAN.
 
 ---
 
-## M07. UF2. Administració de dispositius de xarxa (55h)
+## UF2. Administració de dispositius de xarxa (55h)
 
 | Nucli Formatiu | Hores |
 | - |:-:|
@@ -91,7 +91,7 @@ Topologies. Associació i Autenticació a la WLAN.
 
 --
 
-## M07. UF2. Administració de dispositius de xarxa
+## UF2. Administració de dispositius de xarxa
 
 *   RA1. Administra commutadors establint opcions de configuració per a la seva integració a la xarxa.
 
@@ -99,7 +99,7 @@ Topologies. Associació i Autenticació a la WLAN.
 
 --
 
-### M07. UF2. NF1. Configuració i administració bàsica de commutadors i encaminadors
+### UF2.NF1. Configuració i administració bàsica de commutadors i encaminadors
 
 * Conceptes bàsics i funcionament switch: taula de commutació, inundació, reenviament selectiu...
 * Configuració de switchos per CLI
@@ -111,17 +111,17 @@ Topologies. Associació i Autenticació a la WLAN.
 
 --
 
-### M07. UF2. NF2. Configuració i administració avançada de commutadors i encaminadors
+### UF2.NF2. Configuració i administració avançada de commutadors i encaminadors
 
 * Redundància. Estructura jeràrquica. Capes d'accés, distribució i nucli.
-* Protocol STP. Simulació.
 * Redundància amb switchos.
+* Protocol STP. Simulació.
 * Seguretat d'accés perimetral en routers CISCO
 * Màscares wildcard. Disseny d’ACL standard i extended
 
 --
 
-## M07. UF2. Administració de dispositius de xarxa
+## UF2. Administració de dispositius de xarxa
 
 | Intrument avaluació | % UF2 |
 | - |:-:|
@@ -133,7 +133,7 @@ Topologies. Associació i Autenticació a la WLAN.
 
 ---
 
-## M07. UF3. Administració avançada de xarxes (66h)
+## UF3. Administració avançada de xarxes (66h)
 
 | Nucli Formatiu | Hores |
 | - |:-:|
@@ -142,7 +142,7 @@ Topologies. Associació i Autenticació a la WLAN.
 
 --
 
-## M07. UF3. Administració avançada de xarxes
+## UF3. Administració avançada de xarxes
 
 *   RA1. Configura xarxes locals virtuals identificant el seu camp d'aplicació.
 
@@ -152,7 +152,7 @@ Topologies. Associació i Autenticació a la WLAN.
 
 --
 
-### M07. UF3. NF1. VLAN i NAT
+### UF3.NF1. VLAN i NAT
 
 * Segmentació VLAN
 * Configuració VLAN i enllaços troncals  
@@ -165,7 +165,7 @@ Topologies. Associació i Autenticació a la WLAN.
 
 --
 
-### M07. UF3. NF2. Subxarxes VLM i protocols d'enrutament
+### UF3.NF2. Subxarxes VLM i protocols d'enrutament
 
 * Protocols routing dinàmic. Distance vector i Link-State
 * Protocol RIPv2. Configuració
@@ -176,7 +176,7 @@ Topologies. Associació i Autenticació a la WLAN.
 
 --
 
-## M07. UF3. Administració avançada de xarxes
+## UF3. Administració avançada de xarxes
 
 | Intrument avaluació | % UF3 |
 | - |:-:|
@@ -190,7 +190,19 @@ Topologies. Associació i Autenticació a la WLAN.
 
 ## M07. Planificació i administració de xarxes
 
-Nota Final Mòdul `$ = 0.27·Q_{UF1} + 0.33·Q_{UF2} + 0.40·Q_{UF3} $`
+**Nota Final Mòdul** `$ = 0.27·Q_{UF1} + 0.33·Q_{UF2} + 0.40·Q_{UF3} $`
+
+---
+
+## Materials alumnat
+
+* Els materials dels cursos de CISCO es donaran íntegrament en **anglès** 🇬🇧
+
+  *  **Cisco Network Academy** ([www.netacad.com](www.netacad.com))
+  *  **Wiki** &rarr; seqüenciació i presentacions instructor
+  *  **Moodle** &rarr; lliuraments
+
+* Taller amb switchos i routers CISCO.
 
 ---
 
@@ -205,26 +217,18 @@ Nota Final Mòdul `$ = 0.27·Q_{UF1} + 0.33·Q_{UF2} + 0.40·Q_{UF3} $`
 
 --
 
-## Certificacions CCNA
+## Certificate of Course Completion
 
-* Els exàmens de CCNA de cada capítol es podran realitzar a casa i comptaran per la nota de cada UF.
-* L'examen final dels mòduls CCNA es farà en horari lectiu (optatiu).
-  * A la finalització de la UF1 es realitzarà l'examen del CCNA1
-  * A la finalització de la UF3 es realitzarà els exàmens del CCNA2 i CCNA3.
+- **CCNA Chapter Exam**
+  * Es podran realitzar a **casa**
+  * Comptaran per la nota de cada UF
+  * Penalització del 10% per cada examen no realitzat a la **Pt** corresponent
 
---
+* **CCNA Final Exam**
+  * Finalització UF1 &rarr; Examen CCNA1
+  * Finalització UF3 &rarr; Exàmens CCNA2 i CCNA3
 
-## Materials alumnat
-
-* Els materials dels cursos de CISCO es donaran íntegrament en **anglès**.
-
-  *  Cisco Network Academy (www.netacad.com)
-  *  Wiki amb seqüenciació i presentacions instructor.
-  *  Moodle per lliuraments
-
-* Taller amb switchos i routers CISCO.
-
---
+---
 
 ## Bibliografia
 
@@ -253,3 +257,7 @@ Nota Final Mòdul `$ = 0.27·Q_{UF1} + 0.33·Q_{UF2} + 0.40·Q_{UF3} $`
 | <center><img width="200" src="https://images-na.ssl-images-amazon.com/images/I/51E0pRGMb-L._SX392_BO1,204,203,200_.jpg"></center> |
 | Autor: Todd Lammle |
 | ISBN-13: 978-1119288312 |
+
+---
+
+<center><img width="800" src="https://i.pinimg.com/originals/0f/e3/bc/0fe3bc226f8ad07c4f19092788c3013b.png"></center>
