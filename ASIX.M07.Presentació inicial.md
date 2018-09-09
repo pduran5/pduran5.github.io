@@ -196,7 +196,7 @@ Topologies. Associació i Autenticació a la WLAN.
 
 ## Materials alumnat
 
-* Els materials dels cursos de CISCO es donaran íntegrament en **anglès** 🇬🇧
+* Els materials dels cursos de CISCO es donaran íntegrament en **anglès**
 
   *  **Cisco Network Academy** ([www.netacad.com](www.netacad.com))
   *  **Wiki** &rarr; seqüenciació i presentacions instructor
