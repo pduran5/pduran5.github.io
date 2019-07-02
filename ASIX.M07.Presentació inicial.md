@@ -242,7 +242,7 @@ Topologies. Associació i Autenticació a la WLAN.
 
 ## Certificació Oficial CCNA Routing & Switching 
 
-- **Exam 200-125**
+**Exam 200-125**
 
 | Domain | % of Exam |
 | - |:-:|
@@ -268,7 +268,7 @@ Topologies. Associació i Autenticació a la WLAN.
 
 ## NEW! Certificació Oficial CCNA
 
-- **Exam 200-301**
+**Exam 200-301**
 
 | Domain | % of Exam |
 | - |:-:|
