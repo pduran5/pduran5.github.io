@@ -261,7 +261,7 @@ Topologies. Associació i Autenticació a la WLAN.
 - **Exam 200-301**
   * 120 minutes. 50-60 Questions
   * Passing score is about ??
-  * **Exam will be available on Feb. 24rd, 2020**
+  * **Exam will be available on Feb. 24th, 2020**
   * CCNA certification expires 3 years after you pass the exam
 
 ---
