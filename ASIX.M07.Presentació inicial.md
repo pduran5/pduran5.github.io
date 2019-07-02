@@ -199,7 +199,7 @@ Topologies. Associació i Autenticació a la WLAN.
 * Els materials dels cursos de CISCO es donaran íntegrament en **anglès**
 
   *  **Cisco Network Academy** ([www.netacad.com](www.netacad.com))
-  *  **Wiki** &rarr; seqüenciació i presentacions instructor
+  *  **Wiki** &rarr; seqüenciació, presentacions instructor i xuleta de comandes
   *  **Moodle** &rarr; lliuraments
 
 * Taller amb switchos i routers CISCO.
@@ -220,13 +220,64 @@ Topologies. Associació i Autenticació a la WLAN.
 ## Certificate of Course Completion
 
 - **CCNA Chapter Exam**
-  * Es podran realitzar a **casa**
-  * Comptaran per la nota de cada UF
+  * Es podran realitzar a **casa** i comptaran per la nota de cada UF (**25%**)
   * Penalització del 10% per cada examen no realitzat a la **Pt** corresponent
 
 * **CCNA Final Exam**
   * Finalització UF1 &rarr; Examen CCNA1
   * Finalització UF3 &rarr; Exàmens CCNA2 i CCNA3
+  * Possibilitat de realitzar Examen CCNA4
+
+---
+
+## Certificació Oficial CCNA Routing & Switching 
+
+- **Exam 200-125**
+  * 90 minuts. 50-60 Questions
+  * Passing score is about 810/1000
+  * **Exam will be retired on Feb. 23rd, 2020**
+  * CCNA certification expires 3 years after you pass the exam
+
+---
+
+## Certificació Oficial CCNA Routing & Switching 
+
+- **Exam 200-125**
+
+| Domain | % of Exam |
+| - |:-:|
+| Network Fundamentals | 15% |
+| LAN Switching Technologies | 21% |
+| Routing Technologies | 23% |
+| WAN Technologies | 10% |
+| Infrastructure Services | 10% |
+| Infrastructure Security | 11% |
+| Infrastructure Management | 10% |
+
+---
+
+## NEW! Certificació Oficial CCNA
+
+- **Exam 200-301**
+  * 120 minuts. 50-60 Questions
+  * Passing score is about ??
+  * **Exam will be available on Feb. 24rd, 2020**
+  * CCNA certification expires 3 years after you pass the exam
+
+---
+
+## Certificació Oficial CCNA Routing & Switching 
+
+- **Exam 200-301**
+
+| Domain | % of Exam |
+| - |:-:|
+| Network Fundamentals | 20% |
+| Network Access | 20% |
+| IP Connectivity | 25% |
+| IP Services | 10% |
+| Security Fundamentals | 15% |
+| Automation and Programmability | 10% |
 
 ---
 
