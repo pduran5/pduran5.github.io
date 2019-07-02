@@ -233,7 +233,7 @@ Topologies. Associació i Autenticació a la WLAN.
 ## Certificació Oficial CCNA Routing & Switching 
 
 - **Exam 200-125**
-  * 90 minuts. 50-60 Questions
+  * 90 minutes. 50-60 Questions
   * Passing score is about 810/1000
   * **Exam will be retired on Feb. 23rd, 2020**
   * CCNA certification expires 3 years after you pass the exam
@@ -259,7 +259,7 @@ Topologies. Associació i Autenticació a la WLAN.
 ## NEW! Certificació Oficial CCNA
 
 - **Exam 200-301**
-  * 120 minuts. 50-60 Questions
+  * 120 minutes. 50-60 Questions
   * Passing score is about ??
   * **Exam will be available on Feb. 24rd, 2020**
   * CCNA certification expires 3 years after you pass the exam
