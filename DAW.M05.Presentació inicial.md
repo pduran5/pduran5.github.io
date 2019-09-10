@@ -1,7 +1,6 @@
 <!-- .slide: class="intro" -->
 # M05. Entorns de Desenvolupament 
 ### CFGS DAW-BIO
-<small>Pedro Durán / <pduran5@xtec.cat></small>
 
 ---
 
