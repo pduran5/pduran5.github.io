@@ -137,7 +137,7 @@ Nota Final UF1 `$ = 0.25·Q_{RA1} + 0.25·Q_{RA2} + 0.50·Q_{RA3} $`
 
 ## M03. Programació
 
-Nota Final Mòdul `$ = \frac{85·Q_{UF1} + 50·Q_{UF2} + 30·Q_{UF3}}{169} $`
+Nota Final Mòdul `$ = \frac{85·Q_{UF1} + 50·Q_{UF2} + 30·Q_{UF3}}{165} $`
 
 <br/>
 
