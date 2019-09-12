@@ -44,6 +44,7 @@ Nota Final UF1 `$ = 0.5·Q_{RA1} + 0.5·Q_{RA2} $`
 ## Instruments d'avaluació UF1
 
 | Item avaluatiu | % UF1 |
+| - |:-:|
 | Pt1. Pràctica de NF1 | 15% |
 | Pt2. Pràctica de NF2 | 25% |
 | Pe1. Examen de NF1 | 20% |
@@ -71,6 +72,7 @@ Nota Final UF2 `$ = Q_{RA1} $`
 ## Instruments d'avaluació UF2
 
 | Item avaluatiu | % UF2 |
+| - |:-:|
 | Pt1. Pràctica de NF1 | 25% |
 | Pt2. Pràctica de NF2 | 15% |
 | Pe1. Examen de NF1-NF2 | 60% |
@@ -96,6 +98,7 @@ Nota Final UF3 `$ = Q_{RA1} $`
 ## Instruments d'avaluació UF3
 
 | Item avaluatiu | % UF3 |
+| - |:-:|
 | Pt1. Pràctica de NF1 | 40% |
 | Pe1. Examen de NF1 | 60% |
 
@@ -125,6 +128,7 @@ Nota Final UF1 `$ = 0.25·Q_{RA1} + 0.25·Q_{RA2} + 0.50·Q_{RA3} $`
 ## Instruments d'avaluació M16.UF1
 
 | Item avaluatiu | % UF1 |
+| - |:-:|
 | Pt1. Pràctica de NF1 | 20% |
 | Pt2. Pràctica de NF2 | 20% |
 | Pe1. Examen de NF1-NF2 | 60% |
