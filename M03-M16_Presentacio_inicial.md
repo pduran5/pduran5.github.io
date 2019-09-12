@@ -1,8 +1,8 @@
 <!-- .slide: class="intro" -->
-# M03. Programació
+# M03. Programació Bàsica
 # M16. Objectes i Big Data
 ### CFGS ASIX1
-<small>Pedro Durán / [pduran5@xtec.cat](mailto:pduran5@xtec.cat)</small>
+<small>Isabel Miralvés i Pedro Durán</small>
 
 ---
 
@@ -26,9 +26,8 @@
 
 | Nucli Formatiu | Hores |
 | - |:-:|
-| NF1. Programació estructurada en C | 25h |
-| NF2. Estructures de dades en C | 45h |
-| NF3. Memòria dinàmica | 15h |
+| NF1. Programació estructurada | 30h |
+| NF2. Estructures de dades | 55h |
 
 --
 
@@ -39,6 +38,16 @@
 *   RA2. Utilitza correctament **tipus de dades simples i compostes** emprant les **estructures de control** adients.
 
 Nota Final UF1 `$ = 0.5·Q_{RA1} + 0.5·Q_{RA2} $`
+
+--
+
+## Instruments d'avaluació UF1
+
+| Item avaluatiu | % UF1 |
+| Pt1. Pràctica de NF1 | 15% |
+| Pt2. Pràctica de NF2 | 25% |
+| Pe1. Examen de NF1 | 20% |
+| Pe2. Examen de NF2 | 40% |
 
 ---
 
@@ -57,6 +66,15 @@ Nota Final UF1 `$ = 0.5·Q_{RA1} + 0.5·Q_{RA2} $`
 
 Nota Final UF2 `$ = Q_{RA1} $`
 
+--
+
+## Instruments d'avaluació UF2
+
+| Item avaluatiu | % UF2 |
+| Pt1. Pràctica de NF1 | 25% |
+| Pt2. Pràctica de NF2 | 15% |
+| Pe1. Examen de NF1-NF2 | 60% |
+
 ---
 
 ## M03. UF3. Fonaments de gestió de fitxers (30h)
@@ -72,6 +90,14 @@ Nota Final UF2 `$ = Q_{RA1} $`
 *   RA1. Dissenya, prova i documenta programes que realitzen diferents **operacions sobre fitxers** documentant el programa i les proves realitzades. 
 
 Nota Final UF3 `$ = Q_{RA1} $`
+
+--
+
+## Instruments d'avaluació UF3
+
+| Item avaluatiu | % UF3 |
+| Pt1. Pràctica de NF1 | 40% |
+| Pe1. Examen de NF1 | 60% |
 
 ---
 
@@ -94,6 +120,15 @@ Nota Final UF3 `$ = Q_{RA1} $`
 
 Nota Final UF1 `$ = 0.25·Q_{RA1} + 0.25·Q_{RA2} + 0.50·Q_{RA3} $`
 
+--
+
+## Instruments d'avaluació M16.UF1
+
+| Item avaluatiu | % UF1 |
+| Pt1. Pràctica de NF1 | 20% |
+| Pt2. Pràctica de NF2 | 20% |
+| Pe1. Examen de NF1-NF2 | 60% |
+
 ---
 
 ## M03. Programació
@@ -112,12 +147,11 @@ Nota Final Mòdul `$ = 0.50·Q_{UF1} + 0.50·Q_{UF2} $`
 
 | M03. Programació |
 | - |
-| UF1. NF1. Programació estructurada en C |
+| UF1. NF1. Programació estructurada |
 | UF2. NF1. Programació modular |
 | UF2. NF2. Recursivitat |
-| UF1. NF2. Estructures de dades en C |
+| UF1. NF2. Estructures de dades |
 | UF3. NF1. Gestió de fitxers |
-| UF1. NF3. Memòria dinàmica |
 
 --
 
