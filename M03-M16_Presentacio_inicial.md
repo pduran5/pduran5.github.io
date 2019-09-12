@@ -149,7 +149,7 @@ Nota Final Mòdul `$ = 0.50·Q_{UF1} + 0.50·Q_{UF2} $`
 
 ## Seqüenciació
 
-| M03. Programació |
+| M03. Programació Bàsica |
 | - |
 | UF1. NF1. Programació estructurada |
 | UF2. NF1. Programació modular |
