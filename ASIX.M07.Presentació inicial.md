@@ -1,7 +1,7 @@
 <!-- .slide: class="intro" -->
 # M07. Planificació i administració de xarxes
 ### CFGS ASIX
-<small>Pedro Durán / [pduran5@xtec.cat](mailto:pduran5@xtec.cat)</small>
+<small>Pedro Durán</small>
 
 ---
 
