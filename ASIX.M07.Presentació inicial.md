@@ -1,7 +1,6 @@
 <!-- .slide: class="intro" -->
 # M07. Planificació i administració de xarxes
 ### CFGS ASIX
-<small>Pedro Durán</small>
 
 ---
 
