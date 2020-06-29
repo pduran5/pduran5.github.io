@@ -25,34 +25,33 @@
 
 ### UF1.NF1. Basic network connectivity and communications
 
-CCNA1v7 Introduction to Networks
-- Module 1 Networking Today
-- Module 2 Basic Switch and End Device Configuration
-- Module 3 Protocols and Models
-- Module 4 Physical Layer
-- Module 5 Number Systems
-- Module 6 Data Link Layer
-- Module 7 Ethernet Switching
-
-CCNA2v7 Switching, Routing, and Wireless Essentials
-- Module 12 WLAN Concepts
-- Module 13 WLAN Configuration
+- CCNA1v7 Introduction to Networks
+  - Module 1 Networking Today
+  - Module 2 Basic Switch and End Device Configuration
+  - Module 3 Protocols and Models
+  - Module 4 Physical Layer
+  - Module 5 Number Systems
+  - Module 6 Data Link Layer
+  - Module 7 Ethernet Switching
+- CCNA2v7 Switching, Routing, and Wireless Essentials
+  - Module 12 WLAN Concepts
+  - Module 13 WLAN Configuration
 
 --
 
 ### UF1.NF2. Communicating between networks
 
-CCNA1v7 Introduction to Networks
-- Module 8 Network Layer
-- Module 9 Address Resolution
-- Module 10 Basic Router Configuration
-- Module 11 IPv4 Addressing
-- Module 12 IPv6 Addressing
-- Module 13 ICMP
-- Module 14 Transport Layer
-- Module 15 Application Layer
-- Module 16 Network Security Fundamentals
-- Module 17 Build a Small Network
+- CCNA1v7 Introduction to Networks
+  - Module 8 Network Layer
+  - Module 9 Address Resolution
+  - Module 10 Basic Router Configuration
+  - Module 11 IPv4 Addressing
+  - Module 12 IPv6 Addressing
+  - Module 13 ICMP
+  - Module 14 Transport Layer
+  - Module 15 Application Layer
+  - Module 16 Network Security Fundamentals
+  - Module 17 Build a Small Network
 
 --
 
@@ -79,29 +78,28 @@ CCNA1v7 Introduction to Networks
 
 ### UF2.NF1. Switch Configuration, Redundant Networks and L2 Security
 
-CCNA2v7 Switching, Routing, and Wireless Essentials
-- Module 1 Basic Device Configuration
-- Module 2 Switching Concepts
-- Module 3 VLANs
-- Module 4 Inter-VLAN Routing
-- Module 5 STP
-- Module 6 Etherchannel
-- Module 10 LAN Security Concepts
-- Module 11 Switch Security Configuration
+- CCNA2v7 Switching, Routing, and Wireless Essentials
+  - Module 1 Basic Device Configuration
+  - Module 2 Switching Concepts
+  - Module 3 VLANs
+  - Module 4 Inter-VLAN Routing
+  - Module 5 STP
+  - Module 6 Etherchannel
+  - Module 10 LAN Security Concepts
+  - Module 11 Switch Security Configuration
 
 --
 
 ### UF2.NF2. Routing Configuration and Network Security
 
-CCNA2v7 Switching, Routing, and Wireless Essentials
-- Module 14 Routing Concepts
-- Module 15 IP Static Routing
-- Module 16 Troubleshoot Static and Default Routes
-
-CCNA3v7 Enterprise Networking, Security, and Automation
-- Module 3 Network Security Concepts
-- Module 4 ACL Concepts
-- Module 5 ACLs for IPv4 Configuration
+- CCNA2v7 Switching, Routing, and Wireless Essentials
+  - Module 14 Routing Concepts
+  - Module 15 IP Static Routing
+  - Module 16 Troubleshoot Static and Default Routes
+- CCNA3v7 Enterprise Networking, Security, and Automation
+  - Module 3 Network Security Concepts
+  - Module 4 ACL Concepts
+  - Module 5 ACLs for IPv4 Configuration
 
 --
 
@@ -127,28 +125,26 @@ CCNA3v7 Enterprise Networking, Security, and Automation
 
 ### UF3.NF1. Enterprise networking
 
-CCNA2v7 Switching, Routing, and Wireless Essentials
-- Module 7 DHCPv4
-- Module 8 SLAAC and DHCPv6 Concepts
-- Module 9 FHRP Concepts
-
-CCNA3v7 Enterprise Networking, Security, and Automation
-- Module 1 Single-Area OSPFv2 Concepts
-- Module 2 Single-Area OSPFv2 Configuration
+- CCNA2v7 Switching, Routing, and Wireless Essentials
+  - Module 7 DHCPv4
+  - Module 8 SLAAC and DHCPv6 Concepts
+  - Module 9 FHRP Concepts
+- CCNA3v7 Enterprise Networking, Security, and Automation
+  - Module 1 Single-Area OSPFv2 Concepts
+  - Module 2 Single-Area OSPFv2 Configuration
 
 --
 
 ### UF3.NF1. Enterprise networking
 
-CCNA3v7 Enterprise Networking, Security, and Automation
-- Module 6 NAT for IPv4
-- Module 7 WAN Concepts
-
-CCNA3v7 Enterprise Networking, Security, and Automation
-- Module 9 QoS Concepts
-- Module 10 Network Management
-- Module 11 Network Design
-- Module 12 Network Troubleshooting
+- CCNA3v7 Enterprise Networking, Security, and Automation
+  - Module 6 NAT for IPv4
+  - Module 7 WAN Concepts
+- CCNA3v7 Enterprise Networking, Security, and Automation
+  - Module 9 QoS Concepts
+  - Module 10 Network Management
+  - Module 11 Network Design
+  - Module 12 Network Troubleshooting
 
 --
 
