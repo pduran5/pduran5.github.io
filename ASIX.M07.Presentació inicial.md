@@ -8,188 +8,160 @@
 
 | Unitat Formativa | Hores |
 | - |:-:|
-| UF1. Introducció a les xarxes | 44h |
-| UF2. Administració de dispositius de xarxa | 55h |
-| UF3. Administració avançada de xarxes | 66h |
+| UF1. Introduction to networks | 66h |
+| UF2. Network devices administration | 55h |
+| UF3. Advanced network administration | 44h |
 
 ---
 
-## UF1. Introducció a les xarxes (44h)
+## UF1. Introduction to networks (66h)
 
 | Nucli Formatiu | Hores |
 | - |:-:|
-| NF1. Conceptes bàsics de xarxes | 13h |
-| NF2. Capa física i d'enllaç de dades | 11h |
-| NF3. Capa de xarxa i transport | 20h |
+| NF1. Basic network connectivity and communications | 27h |
+| NF2. Communicating between networks | 39h |
 
 --
 
-## UF1. Introducció a les xarxes
+### UF1.NF1. Basic network connectivity and communications
 
-*   RA1. Reconeix l'estructura de les xarxes de dades identificant els seus elements i principis de funcionament.
+* CCNA1v7 Introduction to Networks
+- Module 1 Networking Today
+- Module 2 Basic Switch and End Device Configuration
+- Module 3 Protocols and Models
+- Module 4 Physical Layer
+- Module 5 Number Systems
+- Module 6 Data Link Layer
+- Module 7 Ethernet Switching
 
-*   RA2. Integra ordinadors i perifèrics en xarxes cablejades i sense fils, avaluant el seu funcionament i prestacions.
-
---
-
-### UF1.NF1. Conceptes bàsics de xarxes
-
-* Inscripció a plataforma NetAcad de CISCO
-* Protocols de xarxa i model OSI
-* Introducció a Packet Tracer
-* Connexió per cable de consola i navegació bàsica IOS
-* Configuració inicial d'un switch
-* Investigació dels models TCP-IP i OSI en acció
-* Utilització de Wireshark per veure el tràfic de xarxa
+* CCNA2v7 Switching, Routing, and Wireless Essentials
+- Module 12 WLAN Concepts
+- Module 13 WLAN Configuration
 
 --
 
-### UF1.NF2. Capa física i d'enllaç de dades
+### UF1.NF2. Communicating between networks
 
-* Ethernet. Construcció i verificació cable directe i creuat
-* Fibra òptica. Construcció i verificació fibra òptica
-* Connexió sense fils. Els espectres d'ona de microones i ràdio.
-Topologies. Associació i Autenticació a la WLAN.
-* Protocol Ethernet
-* Dominis de difusió i col·lisió
-* Protocol de resolució d’adreces ARP
-
---
-
-### UF1.NF3. Capa de xarxa i transport
-
-* Protocols de la capa de xarxa
-* Sistemes de numeració decimal, binari i hexadecimal
-* Adreces de xarxa IPv4 i IPv6. Assignació d’adreces
-* Divisió de xarxes IP en subxarxes. Subnetting màscara fixa i VLSM
-* Protocols de la capa de transport. TCP i UDP
-* Capa d’aplicació. Web, Email, DNS, DHCP i FTP.
-* Crear una xarxa petita. Resolució de problemes.
+CCNA1v7 Introduction to Networks
+- Module 8 Network Layer
+- Module 9 Address Resolution
+- Module 10 Basic Router Configuration
+- Module 11 IPv4 Addressing
+- Module 12 IPv6 Addressing
+- Module 13 ICMP
+- Module 14 Transport Layer
+- Module 15 Application Layer
+- Module 16 Network Security Fundamentals
+- Module 17 Build a Small Network
 
 --
 
-## UF1. Introducció a les xarxes
+## UF1. Introduction to networks
 
 | Intrument avaluació | % UF1 |
 | - |:-:|
-| Pe1. Examen UF1-NF1 i UF1-NF2 | 20% |
-| Pe2. Examen UF1-NF3 | 15% |
+| Pe1. Examen UF1-NF1 | 20% |
+| Pe2. Examen UF1-NF2 | 25% |
 | Pt1. Pràctiques UF1-NF1 | 12% |
-| Pt2. Pràctiques UF1-NF2 | 10% |
-| Pt3. Pràctiques UF1-NF3 | 18% |
-| Pt4. Exàmens CISCO UF1 | 25% |
+| Pt2. Pràctiques UF1-NF2 | 28% |
+| Pt3. Exàmens CISCO UF1 | 15% |
 
 ---
 
-## UF2. Administració de dispositius de xarxa (55h)
+## UF2. Network devices administration (55h)
 
 | Nucli Formatiu | Hores |
 | - |:-:|
-| NF1. Configuració i administració bàsica de commutadors i encaminadors | 32h |
-| NF2. Configuració i administració avançada de commutadors i encaminadors | 23h |
+| NF1. Switch Configuration, Redundant Networks and L2 Security | 31h |
+| NF2. Routing Configuration and Network Security | 24h |
 
 --
 
-## UF2. Administració de dispositius de xarxa
+### UF2.NF1. Switch Configuration, Redundant Networks and L2 Security
 
-*   RA1. Administra commutadors establint opcions de configuració per a la seva integració a la xarxa.
-
-*   RA2. Administra les funcions bàsiques d'un encaminador establint opcions de configuració per a la seva integració a la xarxa.
-
---
-
-### UF2.NF1. Configuració i administració bàsica de commutadors i encaminadors
-
-* Conceptes bàsics i funcionament switch: taula de commutació, inundació, reenviament selectiu...
-* Configuració de switchos per CLI
-* Configuració bàsica de VLAN. Ports mode accés i mode trunk
-* Conceptes de routing i funcionament del router
-* Configuració inicial del router
-* Simulació enrutament IPv4, IPv6 i configuració routers
-* Configuració de rutes estàtiques i predeterminades
+CCNA2v7 Switching, Routing, and Wireless Essentials
+- Module 1 Basic Device Configuration
+- Module 2 Switching Concepts
+- Module 3 VLANs
+- Module 4 Inter-VLAN Routing
+- Module 5 STP
+- Module 6 Etherchannel
+- Module 10 LAN Security Concepts
+- Module 11 Switch Security Configuration
 
 --
 
-### UF2.NF2. Configuració i administració avançada de commutadors i encaminadors
+### UF2.NF2. Routing Configuration and Network Security
 
-* Redundància. Estructura jeràrquica. Capes d'accés, distribució i nucli.
-* Redundància amb switchos.
-* Protocol STP. Simulació.
-* Seguretat d'accés perimetral en routers CISCO
-* Màscares wildcard. Disseny d’ACL standard i extended
+CCNA2v7 Switching, Routing, and Wireless Essentials
+- Module 14 Routing Concepts
+- Module 15 IP Static Routing
+- Module 16 Troubleshoot Static and Default Routes
+CCNA3v7 Enterprise Networking, Security, and Automation
+- Module 3 Network Security Concepts
+- Module 4 ACL Concepts
+- Module 5 ACLs for IPv4 Configuration
 
 --
 
-## UF2. Administració de dispositius de xarxa
+## UF2. Network devices administration
 
 | Intrument avaluació | % UF2 |
 | - |:-:|
-| Pe1. Examen UF2-NF1 | 20% |
-| Pe2. Examen UF2-NF2 | 15% |
+| Pe1. Examen UF2-NF1 | 25% |
+| Pe2. Examen UF2-NF2 | 20% |
 | Pt1. Pràctiques UF2-NF1 | 23% |
 | Pt2. Pràctiques UF2-NF2 | 17% |
-| Pt3. Exàmens CISCO UF2 | 25% |
+| Pt3. Exàmens CISCO UF2 | 15% |
 
 ---
 
-## UF3. Administració avançada de xarxes (66h)
+## UF3. Advanced network administration (44h)
 
 | Nucli Formatiu | Hores |
 | - |:-:|
-| NF1. VLAN i NAT | 30h |
-| NF2. Subxarxes VLM i protocols d'enrutament | 36h |
+| NF1. Enterprise networking | 44h |
 
 --
 
-## UF3. Administració avançada de xarxes
+### UF3.NF1. Enterprise networking
 
-*   RA1. Configura xarxes locals virtuals identificant el seu camp d'aplicació.
-
-*   RA2. Realitza tasques avançades d'administració de xarxa analitzant i utilitzant protocols dinàmics d'encaminament.
-
-*   RA3. Connecta xarxes privades a xarxes públiques identificant i aplicant diferents tecnologies.
-
---
-
-### UF3.NF1. VLAN i NAT
-
-* Segmentació VLAN
-* Configuració VLAN i enllaços troncals  
-* Encaminament entre VLAN
-* Router-on-a-Stick. Configuració
-* VTP. Extended VLAN. DTP
-* Enrutament amb switchos multicapa
-* DHCPv4 i DHCPv6. SLAAC
-* NAT i PAT. Configuració i resolució problemes
+CCNA2v7 Switching, Routing, and Wireless Essentials
+- Module 7 DHCPv4
+- Module 8 SLAAC and DHCPv6 Concepts
+- Module 9 FHRP Concepts
+CCNA3v7 Enterprise Networking, Security, and Automation
+- Module 1 Single-Area OSPFv2 Concepts
+- Module 2 Single-Area OSPFv2 Configuration
 
 --
 
-### UF3.NF2. Subxarxes VLM i protocols d'enrutament
+### UF3.NF1. Enterprise networking
 
-* Protocols routing dinàmic. Distance vector i Link-State
-* Protocol RIPv2. Configuració
-* Protocols OSPFv2 i OSPFv3 d'àrea única. Configuració
-* Protocols OSPFv2 i OSPFv3 multiàrea. Configuració
-* Protocol EIGRP. Implementació per IPv6
-* Agregació d’enllaços. Configuració d’EtherChannel
+CCNA3v7 Enterprise Networking, Security, and Automation
+- Module 6 NAT for IPv4
+- Module 7 WAN Concepts
+CCNA3v7 Enterprise Networking, Security, and Automation
+- Module 9 QoS Concepts
+- Module 10 Network Management
+- Module 11 Network Design
+- Module 12 Network Troubleshooting
 
 --
 
-## UF3. Administració avançada de xarxes
+## UF3. Advanced network administration
 
 | Intrument avaluació | % UF3 |
 | - |:-:|
-| Pe1. Examen UF3-NF1 | 15% |
-| Pe2. Examen UF3-NF2 | 20% |
-| Pt1. Pràctiques UF3-NF1 | 15% |
-| Pt2. Pràctiques UF3-NF2 | 25% |
-| Pt3. Exàmens CISCO UF3 | 25% |
+| Pe1. Examen UF3-NF1 | 45% |
+| Pt1. Pràctiques UF3-NF1 | 40% |
+| Pt2. Exàmens CISCO UF3 | 15% |
 
 ---
 
 ## M07. Planificació i administració de xarxes
 
-**Nota Final Mòdul** `$ = 0.27·Q_{UF1} + 0.33·Q_{UF2} + 0.40·Q_{UF3} $`
+**Nota Final Mòdul** `$ = 0.40·Q_{UF1} + 0.33·Q_{UF2} + 0.27·Q_{UF3} $`
 
 ---
 
@@ -201,71 +173,44 @@ Topologies. Associació i Autenticació a la WLAN.
   *  **Wiki** ([bit.ly/wikiproven](http://bit.ly/wikiproven)) &rarr; Seqüenciació, presentacions instructor i xuleta de comandes
   *  **Moodle** ([campus.proven.cat](http://campus.proven.cat)) &rarr; Lliurament de pràctiques i exàmens
 
-* Taller amb switchos i routers CISCO.
+* Switchos i routers CISCO (al taller).
 
 ---
 
-## Cisco CCNA Routing & Switching
+## Cisco CCNAv7
 
-| Mòdul CCNA | UF |
+| Mòdul CCNAv7 | UF |
 | - | - |
-| CCNA1. Introduction to Networks | UF1 |
-| CCNA2. Routing and Switching Essentials | UF2 i UF3 |
-| CCNA3. Scaling Networks | UF2 i UF3 |
-| CCNA4. Connecting Networks | NA |
+| CCNA1v7. Introduction to Networks | UF1 |
+| CCNA2v7. Switching, Routing, and Wireless Essentials | UF2 i UF3 |
+| CCNA3v7. Enterprise Networking, Security, and Automation | UF2 i UF3 |
 
 --
 
 ## Certificate of Course Completion
 
-- **CCNA Chapter Exam**
-  * Es podran realitzar a **casa** i comptaran per la nota de cada UF (**25%**)
-  * Penalització del 10% per cada examen no realitzat a la **Pt** corresponent
+- **CCNAv7 Module Group Exams**
+  * Es podran realitzar a **casa** i comptaran per la nota de cada UF (**15%**)
+  * Penalització del 20% per cada examen no realitzat a la **Pt** corresponent
 
-* **CCNA Final Exam**
-  * Finalització UF1 &rarr; Examen CCNA1
-  * Finalització UF3 &rarr; Exàmens CCNA2 i CCNA3
-  * Possibilitat de realitzar Examen CCNA4
-
----
-
-## Certificació Oficial CCNA Routing & Switching 
-
-- **Exam 200-125**
-  * 90 minutes. 50-60 Questions
-  * Passing score is about 810/1000
-  * **Exam will be retired on Feb. 23rd, 2020**
-  * CCNA certification expires 3 years after you pass the exam
+* **CCNAv7 Final Exam (no compta per nota)**
+  * Superació de 75 sobre 100 per obtenir el certificat
+  * Finalització UF1 &rarr; Examen CCNA1v7
+  * Finalització UF3 &rarr; Exàmens CCNA2v7 i CCNA3v7
 
 ---
 
-## Certificació Oficial CCNA Routing & Switching 
-
-**Exam 200-125**
-
-| Domain | % of Exam |
-| - |:-:|
-| Network Fundamentals | 15% |
-| LAN Switching Technologies | 21% |
-| Routing Technologies | 23% |
-| WAN Technologies | 10% |
-| Infrastructure Services | 10% |
-| Infrastructure Security | 11% |
-| Infrastructure Management | 10% |
-
----
-
-## NEW! Certificació Oficial CCNA
+## Certificació Oficial CCNA
 
 - **Exam 200-301**
-  * 120 minutes. 50-60 Questions
-  * Passing score is about ??
-  * **Exam will be available on Feb. 24th, 2020**
+  * Duration: 120 minutes + 30 minutes (non native english speakers)
+  * 60-65 Questions. Passing score is 825/1000
+  * Language: English. Price: 300€ aprox.
   * CCNA certification expires 3 years after you pass the exam
 
 ---
 
-## NEW! Certificació Oficial CCNA
+## Certificació Oficial CCNA
 
 **Exam 200-301**
 
@@ -280,34 +225,24 @@ Topologies. Associació i Autenticació a la WLAN.
 
 ---
 
-## Bibliografia
+## Bibliografia addicional
 
-| CCENT/CCNA ICND1 100-105 Official Cert Guide |
+| CCNA 200-301 Official Cert Guide, Volume 1 |
 | - |
-| <center><img width="200" src="https://images-na.ssl-images-amazon.com/images/I/51oObeoltvL._SX390_BO1,204,203,200_.jpg"></center> |
+| <center><img width="200" src="https://images-na.ssl-images-amazon.com/images/I/51kMtpaJQNL._SX395_BO1,204,203,200_.jpg"></center> |
 | Autor: Wendell Odom |
-| ISBN-13: 978-1587205972 |
+| ISBN-13: 978-0-13-579273-5 |
 
 --
 
-## Bibliografia
+## Bibliografia addicional
 
-| CCNA Routing and Switching ICND2 200-105 Official Cert Guide |
+| CCNA 200-301 Official Cert Guide, Volume 2 |
 | - |
-| <center><img width="200" src="https://images-na.ssl-images-amazon.com/images/I/515Nm85wQpL._SX392_BO1,204,203,200_.jpg"></center> |
+| <center><img width="200" src="https://images-na.ssl-images-amazon.com/images/I/51SBHnXs4oL._SX395_BO1,204,203,200_.jpg"></center> |
 | Autor: Wendell Odom |
-| ISBN-13: 978-1587205989 |
+| ISBN-13: 978-1-58714-713-5 |
 
 --
-
-## Bibliografia
-
-| CCNA Routing and Switching Complete Deluxe Study Guide |
-| - |
-| <center><img width="200" src="https://images-na.ssl-images-amazon.com/images/I/51E0pRGMb-L._SX392_BO1,204,203,200_.jpg"></center> |
-| Autor: Todd Lammle |
-| ISBN-13: 978-1119288312 |
-
----
 
 <center><img width="800" src="https://i.pinimg.com/originals/0f/e3/bc/0fe3bc226f8ad07c4f19092788c3013b.png"></center>
