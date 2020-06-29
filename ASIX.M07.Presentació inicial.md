@@ -25,7 +25,7 @@
 
 ### UF1.NF1. Basic network connectivity and communications
 
-* CCNA1v7 Introduction to Networks
+CCNA1v7 Introduction to Networks
 - Module 1 Networking Today
 - Module 2 Basic Switch and End Device Configuration
 - Module 3 Protocols and Models
@@ -34,7 +34,7 @@
 - Module 6 Data Link Layer
 - Module 7 Ethernet Switching
 
-* CCNA2v7 Switching, Routing, and Wireless Essentials
+CCNA2v7 Switching, Routing, and Wireless Essentials
 - Module 12 WLAN Concepts
 - Module 13 WLAN Configuration
 
@@ -97,6 +97,7 @@ CCNA2v7 Switching, Routing, and Wireless Essentials
 - Module 14 Routing Concepts
 - Module 15 IP Static Routing
 - Module 16 Troubleshoot Static and Default Routes
+
 CCNA3v7 Enterprise Networking, Security, and Automation
 - Module 3 Network Security Concepts
 - Module 4 ACL Concepts
@@ -130,6 +131,7 @@ CCNA2v7 Switching, Routing, and Wireless Essentials
 - Module 7 DHCPv4
 - Module 8 SLAAC and DHCPv6 Concepts
 - Module 9 FHRP Concepts
+
 CCNA3v7 Enterprise Networking, Security, and Automation
 - Module 1 Single-Area OSPFv2 Concepts
 - Module 2 Single-Area OSPFv2 Configuration
@@ -141,6 +143,7 @@ CCNA3v7 Enterprise Networking, Security, and Automation
 CCNA3v7 Enterprise Networking, Security, and Automation
 - Module 6 NAT for IPv4
 - Module 7 WAN Concepts
+
 CCNA3v7 Enterprise Networking, Security, and Automation
 - Module 9 QoS Concepts
 - Module 10 Network Management
