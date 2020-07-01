@@ -140,7 +140,6 @@
 - CCNA3v7 Enterprise Networking, Security, and Automation
   - Module 6 NAT for IPv4
   - Module 7 WAN Concepts
-- CCNA3v7 Enterprise Networking, Security, and Automation
   - Module 9 QoS Concepts
   - Module 10 Network Management
   - Module 11 Network Design
@@ -172,7 +171,7 @@
   *  **Wiki** ([bit.ly/wikiproven](http://bit.ly/wikiproven)) &rarr; Seqüenciació, presentacions instructor i xuleta de comandes
   *  **Moodle** ([campus.proven.cat](http://campus.proven.cat)) &rarr; Lliurament de pràctiques i exàmens
 
-* Switchos i routers CISCO (al taller).
+* Switchos i routers CISCO ([inventari taller](https://docs.google.com/spreadsheets/d/14bW5EUC2jJljf1NemiMhqWqUTIPCC0ARF1OG-acpwfA/)).
 
 ---
 
@@ -196,6 +195,10 @@
   * Superació de 75 sobre 100 per obtenir el certificat
   * Finalització UF1 &rarr; Examen CCNA1v7
   * Finalització UF3 &rarr; Exàmens CCNA2v7 i CCNA3v7
+
+---
+
+<center><img width="800" src="https://raw.githubusercontent.com/pduran5/pduran5.github.io/master/img/ccnav7cccsample.jpg"></center>
 
 ---
 
