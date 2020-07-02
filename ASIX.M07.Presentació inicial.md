@@ -229,21 +229,11 @@
 
 ## Bibliografia addicional
 
-| CCNA 200-301 Official Cert Guide, Volume 1 |
+| CCNA 200-301 Official Cert Guide Library |
 | - |
-| <center><img width="200" src="https://images-na.ssl-images-amazon.com/images/I/51kMtpaJQNL._SX395_BO1,204,203,200_.jpg"></center> |
+| <center><img width="200" src="https://images-na.ssl-images-amazon.com/images/I/51A3SLhnZoL._SX404_BO1,204,203,200_.jpg"></center> |
 | Autor: Wendell Odom |
-| ISBN-13: 978-0-13-579273-5 |
-
---
-
-## Bibliografia addicional
-
-| CCNA 200-301 Official Cert Guide, Volume 2 |
-| - |
-| <center><img width="200" src="https://images-na.ssl-images-amazon.com/images/I/51SBHnXs4oL._SX395_BO1,204,203,200_.jpg"></center> |
-| Autor: Wendell Odom |
-| ISBN-13: 978-1-58714-713-5 |
+| ISBN-13: 978-1-58714-714-2 |
 
 --
 
