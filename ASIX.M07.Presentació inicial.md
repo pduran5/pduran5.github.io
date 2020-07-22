@@ -216,7 +216,7 @@
 
 - **Exam 200-301**
   * Duration: 120 minutes + 30 minutes (non native english speakers)
-  * 60-65 Questions. Passing score is 825/1000
+  * Aprox. 120 Questions. Passing score is 825/1000
   * Language: English. Price: 300€ aprox.
   * CCNA certification expires 3 years after you pass the exam
 
