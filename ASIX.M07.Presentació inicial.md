@@ -196,11 +196,11 @@
   * Finalització UF1 &rarr; Examen CCNA1v7
   * Finalització UF3 &rarr; Exàmens CCNA2v7 i CCNA3v7
 
----
+--
 
 <center><img width="800" src="https://raw.githubusercontent.com/pduran5/pduran5.github.io/master/img/ccnav7cccsample.jpg"></center>
 
----
+--
 
 ## Acclaim CCNA Badges
 
