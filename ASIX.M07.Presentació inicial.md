@@ -205,9 +205,9 @@
 ## Acclaim CCNA Badges
 
 <center>
-<img src="https://images.youracclaim.com/size/340x340/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png">
-<img src="https://images.youracclaim.com/size/340x340/images/f4ccdba9-dd65-4349-baad-8f05df116443/CCNASRWE__1_.png">
-<img src="https://images.youracclaim.com/size/340x340/images/0a6d331e-8abf-4272-a949-33f754569a76/CCNAENSA__1_.png">
+<img width="250" src="https://images.youracclaim.com/size/340x340/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png">
+<img width="250" src="https://images.youracclaim.com/size/340x340/images/f4ccdba9-dd65-4349-baad-8f05df116443/CCNASRWE__1_.png">
+<img width="250" src="https://images.youracclaim.com/size/340x340/images/0a6d331e-8abf-4272-a949-33f754569a76/CCNAENSA__1_.png">
 </center>
 
 ---
