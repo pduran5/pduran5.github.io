@@ -177,10 +177,10 @@
 
 ## Software utilitzat
 
-* Simulador: Cisco Packet Tracer
-* Emulador: GNS3 + Dispositius Cisco IOU/IOSv
-* Telnet/SSH/XMODEM: PuTTY / TeraTerm
-* Sniffer: Wireshark
+* **Network simulator**: Cisco Packet Tracer
+* **Network emulator**: GNS3 + Cisco IOU/IOSv devices
+* **Telnet/SSH/XMODEM client**: PuTTY / TeraTerm
+* **Network sniffer**: Wireshark
 
 ---
 
