@@ -168,7 +168,7 @@
 * Els materials dels cursos de CISCO es donaran íntegrament en **anglès**
 
   *  **Cisco Networking Academy** ([www.netacad.com](http://www.netacad.com)) &rarr; Apunts
-  *  **Wiki** ([wiki.pduran.net](https://wiki.pduran.net)) &rarr; Seqüenciació, presentacions instructor i xuleta de comandes
+  *  **Wiki** ([GitLab](https://gitlab.com/pedroduran/asixm07/)) &rarr; Seqüenciació, presentacions instructor i xuleta de comandes
   *  **Moodle** ([campus.proven.cat](http://campus.proven.cat)) &rarr; Lliurament de pràctiques i exàmens
 
 * Switchos i routers CISCO ([inventari taller](https://docs.google.com/spreadsheets/d/14bW5EUC2jJljf1NemiMhqWqUTIPCC0ARF1OG-acpwfA/)).
