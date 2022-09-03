@@ -8,8 +8,8 @@
 
 | Unitat Formativa | Hores |
 | - |:-:|
-| UF1. Introduction to networks | 66h |
-| UF2. Network devices administration | 55h |
+| UF1. Introduction to networks | 44h |
+| UF2. Network devices administration | 44h |
 | UF3. Advanced network administration | 44h |
 
 ---
@@ -18,8 +18,8 @@
 
 | Nucli Formatiu | Hores |
 | - |:-:|
-| NF1. Basic network connectivity and communications | 27h |
-| NF2. Communicating between networks | 39h |
+| NF1. Basic network connectivity and communications | 22h |
+| NF2. Communicating between networks | 22h |
 
 --
 
@@ -59,20 +59,20 @@
 
 | Intrument avaluació | % UF1 |
 | - |:-:|
-| Pe1. Examen UF1-NF1 | 20% |
+| Pe1. Examen UF1-NF1 | 25% |
 | Pe2. Examen UF1-NF2 | 25% |
-| Pt1. Pràctiques UF1-NF1 | 12% |
-| Pt2. Pràctiques UF1-NF2 | 28% |
+| Pt1. Pràctiques UF1-NF1 | 17% |
+| Pt2. Pràctiques UF1-NF2 | 18% |
 | Pt3. Exàmens CISCO UF1 | 15% |
 
 ---
 
-## UF2. Network devices administration (55h)
+## UF2. Network devices administration (44h)
 
 | Nucli Formatiu | Hores |
 | - |:-:|
-| NF1. Switch Configuration, Redundant Networks and L2 Security | 31h |
-| NF2. Routing Configuration and Network Security | 24h |
+| NF1. Switch Configuration, Redundant Networks and L2 Security | 22h |
+| NF2. Routing Configuration and Network Security | 22h |
 
 --
 
@@ -108,9 +108,9 @@
 | Intrument avaluació | % UF2 |
 | - |:-:|
 | Pe1. Examen UF2-NF1 | 25% |
-| Pe2. Examen UF2-NF2 | 20% |
-| Pt1. Pràctiques UF2-NF1 | 23% |
-| Pt2. Pràctiques UF2-NF2 | 17% |
+| Pe2. Examen UF2-NF2 | 25% |
+| Pt1. Pràctiques UF2-NF1 | 17% |
+| Pt2. Pràctiques UF2-NF2 | 18% |
 | Pt3. Exàmens CISCO UF2 | 15% |
 
 ---
@@ -151,8 +151,8 @@
 
 | Intrument avaluació | % UF3 |
 | - |:-:|
-| Pe1. Examen UF3-NF1 | 45% |
-| Pt1. Pràctiques UF3-NF1 | 40% |
+| Pe1. Examen UF3-NF1 | 50% |
+| Pt1. Pràctiques UF3-NF1 | 35% |
 | Pt2. Exàmens CISCO UF3 | 15% |
 
 ---
@@ -160,6 +160,8 @@
 ## M07. Planificació i administració de xarxes
 
 **Nota Final Mòdul** `$ = 0.40·Q_{UF1} + 0.33·Q_{UF2} + 0.27·Q_{UF3} $`
+
+Nota mínima de 5 a examens i projectes per aprovar la UF.
 
 ---
 
