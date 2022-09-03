@@ -159,7 +159,7 @@
 
 ## M07. Planificació i administració de xarxes
 
-**Nota Final Mòdul** `$ = 0.40·Q_{UF1} + 0.33·Q_{UF2} + 0.27·Q_{UF3} $`
+**Nota Final Mòdul** `$ = 0.33·Q_{UF1} + 0.34·Q_{UF2} + 0.33·Q_{UF3} $`
 
 Nota mínima de 5 a examens i projectes per aprovar la UF.
 
