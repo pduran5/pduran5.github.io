@@ -181,7 +181,7 @@ Nota mínima de 5 a examens i projectes per aprovar la UF.
 
 * **Network simulator**: Cisco Packet Tracer
 * **Network emulator**: GNS3 + Cisco IOU/IOSv devices
-* **Telnet/SSH/XMODEM client**: PuTTY / TeraTerm
+* **Telnet/SSH/XMODEM client**: SecureCRT / PuTTY / TeraTerm
 * **Network sniffer**: Wireshark
 
 ---
