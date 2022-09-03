@@ -14,7 +14,7 @@
 
 ---
 
-## UF1. Introduction to networks (66h)
+## UF1. Introduction to networks (44h)
 
 | Nucli Formatiu | Hores |
 | - |:-:|
