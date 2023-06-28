@@ -161,7 +161,7 @@
 
 **Nota Final Mòdul** `$ = 0.33·Q_{UF1} + 0.34·Q_{UF2} + 0.33·Q_{UF3} $`
 
-Nota mínima de 5 a exàmens i projectes per aprovar la UF.
+Nota mínima de 4 a exàmens i projectes per aprovar la UF.
 
 ---
 
