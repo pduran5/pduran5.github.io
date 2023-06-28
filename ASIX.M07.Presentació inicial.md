@@ -228,8 +228,10 @@ Nota mínima de 4 a exàmens i projectes per aprovar la UF.
 - **Exam 200-301**
   * Duration: 120 minutes + 30 minutes (non native english speakers)
   * Aprox. 120 Questions. Passing score is 825/1000
-  * Language: English. Price: 300€ aprox.
+  * Language: English
   * CCNA certification expires 3 years after you pass the exam
+  * Price: 200€ aprox
+    * 58% discount voucher -> 70% or higher on first attempt of qualifying NetAcad course final exam
 
 ---
 
