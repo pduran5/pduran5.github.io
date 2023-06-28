@@ -61,8 +61,8 @@
 | - |:-:|
 | Pe1. Examen UF1-NF1 | 25% |
 | Pe2. Examen UF1-NF2 | 25% |
-| Pt1. Pràctiques UF1-NF1 | 17% |
-| Pt2. Pràctiques UF1-NF2 | 18% |
+| Pt1. Pràctiques UF1-NF1 | 25% |
+| Pt2. Pràctiques UF1-NF2 | 10% |
 | Pt3. Exàmens CISCO UF1 | 15% |
 
 ---
@@ -107,8 +107,8 @@
 
 | Intrument avaluació | % UF2 |
 | - |:-:|
-| Pe1. Examen UF2-NF1 | 25% |
-| Pe2. Examen UF2-NF2 | 25% |
+| Pe1. Examen UF2-NF1 / Projecte UF2 | 25% |
+| Pe2. Examen UF2-NF2 / Projecte UF2 | 25% |
 | Pt1. Pràctiques UF2-NF1 | 17% |
 | Pt2. Pràctiques UF2-NF2 | 18% |
 | Pt3. Exàmens CISCO UF2 | 15% |
@@ -151,8 +151,8 @@
 
 | Intrument avaluació | % UF3 |
 | - |:-:|
-| Pe1. Examen UF3-NF1 | 50% |
-| Pt1. Pràctiques UF3-NF1 | 35% |
+| Pe1. Examen UF3-NF1 / Projecte UF3 | 50% |
+| Pt1. Pràctiques UF3-NF1 / Projecte UF3 | 35% |
 | Pt2. Exàmens CISCO UF3 | 15% |
 
 ---
