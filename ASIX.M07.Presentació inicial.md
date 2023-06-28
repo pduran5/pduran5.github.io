@@ -169,9 +169,9 @@ Nota mínima de 4 a exàmens i projectes per aprovar la UF.
 
 * Els materials dels cursos de CISCO es donaran íntegrament en **anglès**
 
-  *  **Cisco Networking Academy** ([www.netacad.com](http://www.netacad.com)) &rarr; Apunts
+  *  **Cisco Networking Academy** ([www.netacad.com](http://www.netacad.com)) &rarr; Apunts i exàmens Cisco
   *  **Wiki** ([GitLab](https://gitlab.com/pedroduran/asixm07/)) &rarr; Seqüenciació, presentacions instructor i xuleta de comandes
-  *  **Moodle** ([campus.proven.cat](http://campus.proven.cat)) &rarr; Lliurament de pràctiques i exàmens
+  *  **Moodle** ([campus.proven.cat](http://campus.proven.cat)) &rarr; Lliurament de pràctiques/exàmens/projectes
 
 * Switchos i routers CISCO ([inventari taller](https://docs.google.com/spreadsheets/d/14bW5EUC2jJljf1NemiMhqWqUTIPCC0ARF1OG-acpwfA/)).
 
