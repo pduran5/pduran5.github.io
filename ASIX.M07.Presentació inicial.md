@@ -213,7 +213,7 @@ Nota mínima de 4 a exàmens i projectes per aprovar la UF.
 
 --
 
-## Acclaim CCNA Badges
+## Credly CCNA Badges
 
 <center>
 <img width="250" src="https://images.youracclaim.com/size/340x340/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png">
